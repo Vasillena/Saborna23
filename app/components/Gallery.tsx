@@ -95,24 +95,32 @@ const items = [
 ];
 
 export default function Gallery(): JSX.Element {
-  const scrollRef = useRef(null);
+  const scrollRef = useRef<HTMLDivElement>(null);
   const ghostRef = useRef(null);
   const [scrollRange, setScrollRange] = useState(0);
   const [viewportW, setViewportW] = useState(0);
 
   useLayoutEffect(() => {
-    scrollRef && setScrollRange(scrollRef.current.scrollWidth);
+    if (scrollRef.current) {
+      setScrollRange(scrollRef.current.scrollWidth);
+    }
   }, [scrollRef]);
 
-  const onResize = useCallback((entries) => {
-    for (let entry of entries) {
+  interface ResizeEntry {
+    contentRect: DOMRectReadOnly;
+  }
+
+  const onResize = useCallback((entries: ResizeEntry[]) => {
+    for (const entry of entries) {
       setViewportW(entry.contentRect.width);
     }
   }, []);
 
   useLayoutEffect(() => {
     const resizeObserver = new ResizeObserver((entries) => onResize(entries));
-    resizeObserver.observe(ghostRef.current);
+    if (ghostRef.current) {
+      resizeObserver.observe(ghostRef.current);
+    }
     return () => resizeObserver.disconnect();
   }, [onResize]);
 
