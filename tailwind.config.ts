@@ -6,8 +6,14 @@ export default {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  future: {
+    hoverOnlyWhenSupported: true,
+  },
   theme: {
     extend: {
+      screens: {
+        touch: { raw: "(hover: none) and (pointer: coarse)" },
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
