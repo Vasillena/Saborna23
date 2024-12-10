@@ -2,12 +2,12 @@
 
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 import { useCurrentLocale, useI18n } from "@/locales/client";
+import { useEffect, useState } from "react";
 
 import MenuCard from "./MenuCard";
 import menuListBG from "../menuList/menuListBG.json";
 import menuListEN from "../menuList/menuList.json";
 import { usePathname } from "next/navigation";
-import { useState } from "react";
 
 export default function MenuList(): JSX.Element {
   const t = useI18n();
@@ -15,151 +15,27 @@ export default function MenuList(): JSX.Element {
   const pathname = usePathname();
   // const [menuSection, setMenuSection] = useState("");
 
-  const [selectedTab, setSelectedTab] = useState("");
+  const [selectedTab, setSelectedTab] = useState<string>("");
 
   const menuList = locale === "bg" ? menuListBG : menuListEN;
 
   const category = pathname.split("/")[3];
 
-  // const renderMenu = () => {
-  //   const selectedCategory = menuList.menu.filter(
-  //     (item) => item.category === category
-  //   );
-  //   const categoryNameObj = menuList.menu.find(
-  //     (item) => item.category === category
-  //   );
-
-  //   // const renderMenu = () => {
-  //   //   const selectedCategory = menuList.menu.filter(
-  //   //     (item) => item.category === selectedTab
-  //   //   );
-  //   //   const categoryNameObj = menuList.menu.find(
-  //   //     (item) => item.category === selectedTab
-  //   //   );
-
-  //   let sectionName = "";
-
-  //   if (categoryNameObj) {
-  //     sectionName = categoryNameObj["semi-category"];
-
-  //     switch (sectionName) {
-  //       case "Hot Drinks":
-  //         if (locale === "bg") sectionName = "Топли Напитки";
-  //         break;
-  //       case "Non-alcoholic Drinks":
-  //         if (locale === "bg") sectionName = "Безалкохолни напитки";
-  //         break;
-  //       case "Mixed Drinks":
-  //         if (locale === "bg") sectionName = "Коктейли";
-  //         break;
-  //       case "Whiskey":
-  //         if (locale === "bg") sectionName = "Уиски";
-  //         break;
-  //       case "Vodka":
-  //         if (locale === "bg") sectionName = "Водка";
-  //         break;
-  //       case "Gin":
-  //         if (locale === "bg") sectionName = "Джин";
-  //         break;
-  //       case "Cognac":
-  //         if (locale === "bg") sectionName = "Коняк";
-  //         break;
-  //       case "Rum":
-  //         if (locale === "bg") sectionName = "Ром";
-  //         break;
-  //       case "Tequila":
-  //         if (locale === "bg") sectionName = "Текила";
-  //         break;
-  //       case "Rakia":
-  //         if (locale === "bg") sectionName = "Ракия";
-  //         break;
-  //       case "Anise":
-  //         if (locale === "bg") sectionName = "Анасон";
-  //         break;
-  //       case "Liqueurs":
-  //         if (locale === "bg") sectionName = "Ликьори";
-  //         break;
-  //       case "Beer":
-  //         if (locale === "bg") sectionName = "Бира";
-  //         break;
-  //       case "White":
-  //         if (locale === "bg") sectionName = "Бяло";
-  //         break;
-  //       case "Rose":
-  //         if (locale === "bg") sectionName = "Розе";
-  //         break;
-  //       case "Red":
-  //         if (locale === "bg") sectionName = "Червено";
-  //         break;
-  //       case "Sparkling":
-  //         if (locale === "bg") sectionName = "Пенливо";
-  //         break;
-  //       case "Salads":
-  //         if (locale === "bg") sectionName = "Салати";
-  //         break;
-  //       case "For sharing":
-  //         if (locale === "bg") sectionName = "За споделяне";
-  //         break;
-  //       case "Main courses":
-  //         if (locale === "bg") sectionName = "Основни ястия";
-  //         break;
-  //       case "Desserts":
-  //         if (locale === "bg") sectionName = "Десерти";
-  //         break;
-  //       default:
-  //         break;
-  //     }
-  //   }
-
-  //   if (selectedCategory && categoryNameObj && sectionName) {
-  //     return (
-  //       <div className="mb-10">
-  //         {/* <h2
-  //           className={`text-center my-4 text-[36px] md:text-[44px] ${BitterRose.className}`}
-  //         >
-  //           {sectionName}
-  //         </h2> */}
-  //         {selectedCategory.map((item) => (
-  //           <div
-  //             key={item.id}
-  //             className="max-w-[800px] mx-auto flex flex-col mt-2"
-  //             // className="w-full mx-auto flex flex-col"
-  //           >
-  //             {/* {item["semi-category"] && (
-  //               <h3 className={`text-center mt-2 text-[22px] md:text-[24px]`}>
-  //                 {item["semi-category"]}
-  //               </h3>
-  //             )} */}
-  //             <div className="flex items-center">
-  //               <h4 className="font-bold text-[16px] md:text-[20px]">
-  //                 {item.name}
-  //               </h4>
-  //               <span className="flex-grow border-b border-dotted mx-2 pt-1.5 border-gray-300 md:border-black" />
-  //               <span className="font-bold text-[14px] md:text-[20px]">
-  //                 {`${item.price} / ${item.quantity}`}
-  //               </span>
-  //             </div>
-  //             {item.description && (
-  //               <p className="text-left pr-[40%] text-[14px] md:text-[16px]">
-  //                 {item.description}
-  //               </p>
-  //             )}
-  //           </div>
-  //         ))}
-  //       </div>
-  //     );
-  //   } else {
-  //     return <div />;
-  //   }
-  // };
+  useEffect(() => {
+    if (category === "drinks") {
+      setSelectedTab("Hot Drinks");
+    } else if (category === "wine") {
+      setSelectedTab("White");
+    } else if (category === "food") {
+      setSelectedTab("Salads");
+    }
+  }, [category]);
 
   const renderMenu = () => {
-    // Filter menu items based on the selected tab
     const selectedCategory = menuList.menu.filter(
       (item) => item["semi-category"] === selectedTab
     );
 
-    // If no items are available, show a message
     if (selectedCategory.length === 0) {
       return (
         <div className="text-center mt-4">
@@ -168,20 +44,23 @@ export default function MenuList(): JSX.Element {
       );
     }
 
-    // Render the items for the selected section
     return (
       <div className="mb-10">
         {selectedCategory.map((item) => (
           <div
             key={item.id}
-            className="max-w-[800px] mx-auto flex flex-col mt-2"
+            className="max-w-[800px] mx-auto flex flex-col mt-10"
           >
-            <div className="flex items-center">
-              <h4 className="font-bold text-[16px] md:text-[20px]">
+            <div className="flex flex-col items-center">
+              <h4 className=" text-[14px] md:text-xl text-center">
                 {item.name}
               </h4>
-              <span className="flex-grow border-b border-dotted mx-2 pt-1.5 border-gray-300 md:border-black" />
-              <span className="font-bold text-[14px] md:text-[20px]">
+              {item.description && (
+                <p className="text-[14px] md:text-lg text-center">
+                  {item.description}
+                </p>
+              )}
+              <span className="font-bold text-[14px] md:text-xl">
                 {`${item.price} / ${item.quantity}`}
               </span>
             </div>
@@ -214,7 +93,9 @@ export default function MenuList(): JSX.Element {
               <span
                 className={`text-7xl text-white ${ChillaxMedium.className}`}
               >
-                Drinks
+                {(category === "drinks" && t("menu.drinks")) ||
+                  (category === "wine" && t("menu.wine")) ||
+                  (category === "food" && t("menu.food"))}
               </span>
             </h1>
           </div>
@@ -228,67 +109,67 @@ export default function MenuList(): JSX.Element {
                   {category === "drinks" && (
                     <>
                       <MenuCard
-                        text1={t("menu.softDrinks")}
+                        text1={t("menu.hotDrinks")}
                         onClick={() => setSelectedTab("Hot Drinks")}
                         active={selectedTab === "Hot Drinks"}
                       />
                       <MenuCard
-                        text1="Non-alcoholic Drinks"
+                        text1={t("menu.softDrinks")}
                         onClick={() => setSelectedTab("Non-alcoholic Drinks")}
                         active={selectedTab === "Non-alcoholic Drinks"}
                       />
                       <MenuCard
-                        text1="Mixed Drinks"
+                        text1={t("menu.mixedDrinks")}
                         onClick={() => setSelectedTab("Mixed Drinks")}
                         active={selectedTab === "Mixed Drinks"}
                       />
                       <MenuCard
-                        text1="Whiskey"
+                        text1={t("menu.whiskey")}
                         onClick={() => setSelectedTab("Whiskey")}
                         active={selectedTab === "Whiskey"}
                       />
                       <MenuCard
-                        text1="Vodka"
+                        text1={t("menu.vodka")}
                         onClick={() => setSelectedTab("Vodka")}
                         active={selectedTab === "Vodka"}
                       />
                       <MenuCard
-                        text1="Gin"
+                        text1={t("menu.gin")}
                         onClick={() => setSelectedTab("Gin")}
                         active={selectedTab === "Gin"}
                       />
                       <MenuCard
-                        text1="Cognac"
+                        text1={t("menu.cognac")}
                         onClick={() => setSelectedTab("Cognac")}
                         active={selectedTab === "Cognac"}
                       />
                       <MenuCard
-                        text1="Rum"
+                        text1={t("menu.rum")}
                         onClick={() => setSelectedTab("Rum")}
                         active={selectedTab === "Rum"}
                       />
                       <MenuCard
-                        text1="Tequila"
+                        text1={t("menu.tequila")}
                         onClick={() => setSelectedTab("Tequila")}
                         active={selectedTab === "Tequila"}
                       />
                       <MenuCard
-                        text1="Rakia"
+                        text1={t("menu.rakia")}
                         onClick={() => setSelectedTab("Rakia")}
                         active={selectedTab === "Rakia"}
                       />
                       <MenuCard
-                        text1="Anise"
+                        text1={t("menu.anise")}
                         onClick={() => setSelectedTab("Anise")}
                         active={selectedTab === "Anise"}
                       />
                       <MenuCard
-                        text1="Liqueurs"
+                        text1={t("menu.liqueurs")}
                         onClick={() => setSelectedTab("Liqueurs")}
                         active={selectedTab === "Liqueurs"}
                       />
                       <MenuCard
-                        text1="Beer"
+                        text1={t("menu.beer")}
                         onClick={() => setSelectedTab("Beer")}
                         active={selectedTab === "Beer"}
                       />
@@ -297,22 +178,22 @@ export default function MenuList(): JSX.Element {
                   {category === "wine" && (
                     <>
                       <MenuCard
-                        text1="White"
+                        text1={t("menu.white")}
                         onClick={() => setSelectedTab("White")}
                         active={selectedTab === "White"}
                       />
                       <MenuCard
-                        text1="Rose"
+                        text1={t("menu.rose")}
                         onClick={() => setSelectedTab("Rose")}
                         active={selectedTab === "Rose"}
                       />
                       <MenuCard
-                        text1="Red"
+                        text1={t("menu.red")}
                         onClick={() => setSelectedTab("Red")}
                         active={selectedTab === "Red"}
                       />
                       <MenuCard
-                        text1="Sparkling"
+                        text1={t("menu.sparkling")}
                         onClick={() => setSelectedTab("Sparkling")}
                         active={selectedTab === "Sparkling"}
                       />
@@ -321,28 +202,29 @@ export default function MenuList(): JSX.Element {
                   {category === "food" && (
                     <>
                       <MenuCard
-                        text1="Salads"
+                        text1={t("menu.salads")}
                         onClick={() => setSelectedTab("Salads")}
                         active={selectedTab === "Salads"}
                       />
                       <MenuCard
-                        text1="For sharing"
+                        text1={t("menu.forSharing")}
                         onClick={() => setSelectedTab("For sharing")}
                         active={selectedTab === "For sharing"}
                       />
                       <MenuCard
-                        text1="Main courses"
+                        text1={t("menu.mainCourses")}
                         onClick={() => setSelectedTab("Main courses")}
                         active={selectedTab === "Main courses"}
                       />
                       <MenuCard
-                        text1="Desserts"
+                        text1={t("menu.desserts")}
                         onClick={() => setSelectedTab("Desserts")}
                         active={selectedTab === "Desserts"}
                       />
                     </>
                   )}
                 </div>
+                <hr className="w-full my-4 border-t border-black" />
                 {renderMenu()}
               </div>
             </div>

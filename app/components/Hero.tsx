@@ -1,13 +1,15 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
+import { getI18n } from "@/locales/server";
+
 // import Image from "next/image";
 // import Link from "next/link";
-// import { getI18n } from "@/locales/server";
+
 // import socials1 from "@/public/socials-1.png";
 // import socials2 from "@/public/socials-2.png";
 
 export default async function Hero(): Promise<JSX.Element> {
-  //   const t = await getI18n();
+  const t = await getI18n();
 
   return (
     <>
@@ -19,8 +21,6 @@ export default async function Hero(): Promise<JSX.Element> {
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",
-            // width: "100vw",
-            // height: "100vh",
           }}
         >
           <div
@@ -38,9 +38,7 @@ export default async function Hero(): Promise<JSX.Element> {
               </span>
             </h1>
             <p className="max-w-[800px] mx-auto text-xl lg:text-2xl text-white">
-              Сгушен в подножието на Стария град и началото на Капана, Съборна
-              23 е сборен пункт на любителите на авторската кухня, хубавото вино
-              и перфектният сервиз в сърцето на Пловдив.⁣ ⁣
+              {t("hero.text")}⁣ ⁣
             </p>
           </div>
         </div>
