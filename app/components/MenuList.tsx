@@ -60,9 +60,11 @@ export default function MenuList(): JSX.Element {
                   {item.description}
                 </p>
               )}
-              <span className="font-bold text-[14px] md:text-xl">
-                {`${item.price} / ${item.quantity}`}
-              </span>
+              {item.price && item.quantity && (
+                <span className="font-bold text-[14px] md:text-xl">
+                  {`${item.price} / ${item.quantity}`}
+                </span>
+              )}
             </div>
           </div>
         ))}
@@ -93,9 +95,9 @@ export default function MenuList(): JSX.Element {
               <span
                 className={`text-7xl text-white ${ChillaxMedium.className}`}
               >
-                {(category === "drinks" && t("menu.drinks")) ||
-                  (category === "wine" && t("menu.wine")) ||
-                  (category === "food" && t("menu.food"))}
+                {(category === "drinks" && "Drinks") ||
+                  (category === "wine" && "Wine") ||
+                  (category === "food" && "Food")}
               </span>
             </h1>
           </div>
@@ -220,6 +222,11 @@ export default function MenuList(): JSX.Element {
                         text1={t("menu.desserts")}
                         onClick={() => setSelectedTab("Desserts")}
                         active={selectedTab === "Desserts"}
+                      />
+                      <MenuCard
+                        text1={t("menu.alergens")}
+                        onClick={() => setSelectedTab("Alergens")}
+                        active={selectedTab === "Alergens"}
                       />
                     </>
                   )}

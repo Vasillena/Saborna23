@@ -967,6 +967,66 @@
       "name": "Kadayif roll with vanilla cream, blueberry mousse and dulce de leche with pistachios |1, 5, 10|",
       "price": "13.90 BGN",
       "quantity": "220 g"
+    },
+    {
+      "id": 124,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "1. Milk and dairy products (including lactose)"
+    },
+    {
+      "id": 125,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "2. Cereals containing gluten"
+    },
+    {
+      "id": 127,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "3. Mustard and mustard-based products"
+    },
+    {
+      "id": 128,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "4. Fish, fish, and seafood products"
+    },
+    {
+      "id": 129,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "5. Nuts"
+    },
+    {
+      "id": 130,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "6. Soy and soy products"
+    },
+    {
+      "id": 131,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "7. Sulphites"
+    },
+    {
+      "id": 132,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "8. Sesame seeds and sesame-based products"
+    },
+    {
+      "id": 133,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "9. Celery and celery-based products"
+    },
+    {
+      "id": 134,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "10. Eggs and egg-based products"
     }
   ]
 }

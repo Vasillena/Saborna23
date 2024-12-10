@@ -38,9 +38,9 @@ export default async function Contact(): Promise<JSX.Element> {
           </p>
           <p className="text-xl lg:text-2xl">
             Направете вашата резервация на телефон: <br />
-            0888 888 888 <br />
+            089 023 6023 <br />
             или заповядайте на място на адрес: <br />
-            Съборна 23, Пловдив.
+            ул. &quot;Константин Стоилов&quot; 27, Пловдив.
           </p>
         </div>
       </section>

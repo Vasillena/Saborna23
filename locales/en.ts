@@ -55,5 +55,6 @@ export default {
     forSharing: "For Sharing",
     mainCourses: "Main Courses",
     desserts: "Desserts",
+    alergens: "Alergens",
   },
 } as const;

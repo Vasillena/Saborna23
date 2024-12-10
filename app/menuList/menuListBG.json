@@ -967,6 +967,66 @@
       "name": "Кадаиф рол с ванилов крем, мус от боровинки и сладко от мляко с шамфъстък |1, 5, 10|",
       "price": "13.90 BGN",
       "quantity": "220 g"
+    },
+    {
+      "id": 124,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "1. Мляко и млечни продукти (включително лактоза)"
+    },
+    {
+      "id": 125,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "2. Зърнени култури, съдържащи глутен"
+    },
+    {
+      "id": 127,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "3. Синап и продукти от него"
+    },
+    {
+      "id": 128,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "4. Риба, рибни и морски продукти"
+    },
+    {
+      "id": 129,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "5. Ядки"
+    },
+    {
+      "id": 130,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "6. Соя и соеви продукти"
+    },
+    {
+      "id": 131,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "7. Сулфити"
+    },
+    {
+      "id": 132,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "8. Сусамено семе и продукти от него"
+    },
+    {
+      "id": 133,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "9. Целина и продукти от нея"
+    },
+    {
+      "id": 134,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "10. Яйца и продукти на яйчна основа"
     }
   ]
 }
