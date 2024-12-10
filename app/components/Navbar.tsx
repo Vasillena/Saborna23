@@ -8,6 +8,7 @@ import MainNav from "./MainNav";
 import { SwitchLanguage } from "./SwitchLanguage";
 import clock from "@/public/clock.svg";
 import close from "@/public/close.svg";
+import logo from "@/public/logo-2.png";
 import menu from "@/public/menu.svg";
 import { motion } from "framer-motion";
 import { usePathname } from "next/navigation";
@@ -15,21 +16,8 @@ import { usePathname } from "next/navigation";
 export default function Navbar(): JSX.Element {
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
-  const [isScrolled, setIsScrolled] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
   const buttonRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 1);
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
 
   const closeMenu = useCallback(() => {
     setOpen(false);
@@ -68,17 +56,7 @@ export default function Navbar(): JSX.Element {
   return (
     <div className="max-w-[1440px]">
       <div
-        className={`max-w-[640px] hidden fixed bottom-10 left-0 right-0 mx-auto md:block z-50 transition-all duration-500 ${
-          isScrolled
-            ? "bg-[url(/bg-mobile.webp)] sm:bg-[url(/bg.webp)]"
-            : "bg-transparent"
-        }`}
-        style={{
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-          backgroundRepeat: "no-repeat",
-          backgroundAttachment: "fixed",
-        }}
+        className={`max-w-[640px] hidden fixed bottom-10 left-0 right-0 mx-auto md:block z-50 transition-all duration-500 `}
       >
         <div className="px-4 py-2 flex justify-center items-center bg-white rounded-full">
           <button className="px-4">
@@ -95,13 +73,7 @@ export default function Navbar(): JSX.Element {
       </div>
       <div
         className="
-           max-w-[1440px] block fixed top-0 left-0 right-0 mx-auto md:hidden z-50 bg-[url(/bg-mobile.webp)] sm:bg-[url(/bg.webp)]"
-        style={{
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-          backgroundRepeat: "no-repeat",
-          backgroundAttachment: "fixed",
-        }}
+           max-w-[1440px] block fixed top-0 left-0 right-0 mx-auto md:hidden z-50"
       >
         <div className="w-full flex h-16 justify-between items-center px-4">
           <div className="w-full">
@@ -113,9 +85,11 @@ export default function Navbar(): JSX.Element {
                 <Image
                   src={open ? close : menu}
                   alt="Menu image"
+                  className="p-2 rounded-full"
                   style={{
                     width: "32px",
                     height: "auto",
+                    backgroundColor: "rgba(255, 255, 255, 0.7)",
                   }}
                 />
               </button>
@@ -127,7 +101,8 @@ export default function Navbar(): JSX.Element {
                 src={clock}
                 alt="Clock"
                 priority
-                className="w-full h-auto"
+                className="w-full h-auto p-2 rounded-full"
+                style={{ backgroundColor: "rgba(255, 255, 255, 0.7)" }}
               />
             </Link>
           </div>
@@ -136,13 +111,7 @@ export default function Navbar(): JSX.Element {
       {open && (
         <motion.div
           ref={menuRef}
-          className="fixed top-0 left-0 z-50 w-1/2 h-screen flex flex-col justify-center bg-[url(/bg-mobile.webp)] py-8 pl-2 border-r border-[#30312a]"
-          style={{
-            backgroundSize: "cover",
-            backgroundPosition: "center",
-            backgroundRepeat: "no-repeat",
-            backgroundAttachment: "fixed",
-          }}
+          className="fixed top-0 left-0 z-50 w-1/2 h-screen flex flex-col justify-center items-center bg-[#f0f0f0] py-8 border-r border-[#30312a]"
           initial={{ x: "-100%" }}
           animate={{ x: 0 }}
           exit={{ x: "-100%" }}
@@ -160,6 +129,17 @@ export default function Navbar(): JSX.Element {
                 }}
               />
             </button>
+            <div className="w-full flex justify-center items-center z-50 mb-20">
+              <Image
+                src={logo}
+                alt="Logo"
+                // width={112}
+                width={120}
+                priority
+                // style={{ backgroundColor: "rgba(0, 0, 0, 0.7)" }}
+                // className="p-4 rounded-full"
+              />
+            </div>
             <MainNav closeMenu={closeMenu} />
           </div>
         </motion.div>

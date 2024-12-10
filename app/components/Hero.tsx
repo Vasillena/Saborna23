@@ -1,8 +1,5 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
-import Image from "next/image";
-import logo from "@/public/logo.png";
-
 // import Image from "next/image";
 // import Link from "next/link";
 // import { getI18n } from "@/locales/server";
@@ -26,21 +23,21 @@ export default async function Hero(): Promise<JSX.Element> {
             // height: "100vh",
           }}
         >
-          <div className="max-w-[800px] justify-self-center text-center">
-            <div className="absolute top-8 mx-auto left-0 right-0 w-full flex justify-center items-center z-50">
-              <Image src={logo} alt="Logo" width={88} priority />
-            </div>
+          <div
+            className="w-full justify-self-center text-center p-10"
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
+          >
             <h1
-              className={`mb-8 text-3xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
+              className={`mb-8 text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
             >
               The pure taste of <br />
               <span
-                className={`text-[160px] text-white ${ChillaxMedium.className}`}
+                className={`text-7xl lg:text-[160px] text-white  ${ChillaxMedium.className}`}
               >
                 plovdiv
               </span>
             </h1>
-            <p className="text-xl lg:text-2xl text-white">
+            <p className="max-w-[800px] mx-auto text-xl lg:text-2xl text-white">
               Сгушен в подножието на Стария град и началото на Капана, Съборна
               23 е сборен пункт на любителите на авторската кухня, хубавото вино
               и перфектният сервиз в сърцето на Пловдив.⁣ ⁣

@@ -1,9 +1,9 @@
-import MenuHome from "@/app/components/MenuHome";
+import MenuList from "@/app/components/MenuList";
 
 export default function MenuPage() {
   return (
     <>
-      <MenuHome />
+      <MenuList />
     </>
   );
 }

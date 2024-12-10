@@ -50,7 +50,7 @@ export default function MainNav({ closeMenu }: MainNavProps): JSX.Element {
   );
 
   return (
-    <nav className="flex flex-col md:flex-row items-left md:items-center space-y-4 md:space-y-0">
+    <nav className="flex flex-col md:flex-row items-center md:items-center space-y-4 md:space-y-0">
       {links.map((link) => (
         <Link
           key={link.href}

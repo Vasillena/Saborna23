@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 import Navbar from "../components/Navbar";
 import Provider from "./provider";
 import { ReactNode } from "react";
-import logo from "@/public/logo.png";
+import logo from "@/public/logo-2.png";
 
 // import logo from "@/public/logo.png";
 
@@ -99,8 +99,16 @@ export default async function RootLayout({
     <html lang={locale}>
       <body className={`${MazzardLRegular.className} antialiased`}>
         <Provider locale={Promise.resolve({ locale })}>
-          <div className="absolute top-8 w-full flex justify-center items-center z-50">
-            <Image src={logo} alt="Logo" width={88} priority />
+          <div className="hidden absolute top-8 w-full md:flex justify-center items-center z-50">
+            <Image
+              src={logo}
+              alt="Logo"
+              // width={112}
+              width={260}
+              priority
+              // style={{ backgroundColor: "rgba(0, 0, 0, 0.7)" }}
+              // className="p-4 rounded-full"
+            />
           </div>
 
           {children}
