@@ -1,10 +1,6 @@
 import About from "@/app/components/About";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { locale: string };
-}) {
+export function generateMetadata({ params }: { params: { locale: string } }) {
   const { locale } = params;
 
   let title, description, keywords;
@@ -84,7 +80,7 @@ export async function generateMetadata({
   };
 }
 
-export default async function AboutPage() {
+export default function AboutPage() {
   return (
     <>
       <About />
