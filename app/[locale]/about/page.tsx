@@ -5,14 +5,14 @@ export async function generateMetadata({
 }: {
   params: { locale: string };
 }) {
-  const { locale } = await params;
+  const { locale } = params;
 
   let title, description, keywords;
 
   if (locale === "bg") {
     title = "За нас | saborna23.bg";
     description =
-      "Пътят към вкусната храна е застлан с павета. Със своя аристократичен уют “Съборна 23” те посреща величествено,за да те впечатли с храна и за “твоето място”.";
+      "Пътят към вкусната храна е застлан с павета. Със своя аристократичен уют “Съборна 23” те посреща величествено, за да те впечатли с храна и за “твоето място”.";
     keywords = [
       "Съборна 23",
       "ресторант Съборна 23",
