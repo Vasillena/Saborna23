@@ -1,11 +1,12 @@
 import Contact from "@/app/components/Contact";
+import type { Metadata } from "next";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: { locale: string };
-}) {
-  const { locale } = await params;
+type Props = {
+  params: Promise<{ locale: string }>;
+};
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const locale = (await params).locale;
 
   let title, description, keywords;
 
