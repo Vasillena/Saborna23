@@ -1,73 +1,3 @@
-// "use client";
-
-// import { motion, useScroll, useTransform } from "framer-motion";
-
-// import Image from "next/image";
-// import { useRef } from "react";
-
-// export default function Gallery(): JSX.Element {
-//   const items = [
-//     { id: 1, img: "/gallery-1.png", title: "Gallery Image 1" },
-//     { id: 2, img: "/gallery-2.png", title: "Gallery Image 2" },
-//     { id: 3, img: "/gallery-3.png", title: "Gallery Image 3" },
-//     { id: 4, img: "/gallery-4.png", title: "Gallery Image 4" },
-//     { id: 5, img: "/gallery-5.png", title: "Gallery Image 5" },
-//     { id: 6, img: "/gallery-6.png", title: "Gallery Image 6" },
-//     { id: 7, img: "/gallery-7.png", title: "Gallery Image 7" },
-//   ];
-
-//   const ref = useRef<HTMLDivElement>(null);
-
-//   // Получаваме прогрес на скрол и го трансформираме само по X ос.
-//   const { scrollYProgress } = useScroll({ target: ref });
-//   const x = useTransform(scrollYProgress, [0, 1], ["0%", "-100%"]);
-
-//   return (
-//     // <div className="h-screen relative max-w-screen-2xl mx-auto" ref={ref}>
-//     //   {/* Основен контейнер за скрол, с фиксиран хоризонтален скрол */}
-//     //   <div className="sticky top-0 flex h-screen w-full gap-4 items-center overflow-x-hidden mx-auto">
-//     //     <motion.div style={{ x }} className="flex gap-8 h-full">
-//     //       {items.map((item) => (
-//     //         <div
-//     //           className="h-screen w-screen flex items-center justify-center relative"
-//     //           key={item.id}
-//     //         >
-//     //           <div className="relative w-full h-full">
-//     //             <Image
-//     //               src={item.img}
-//     //               alt={item.title}
-//     //               fill
-//     //               className="object-cover"
-//     //             />
-//     //           </div>
-//     //         </div>
-//     //       ))}
-//     //     </motion.div>
-//     //   </div>
-//     // </div>
-
-//     <div className="max-w-[1440px] mx-auto relative h-screen">
-//       <div className="w-full mx-auto relative h-screen flex flex-nowrap overflow-x-scroll">
-//         {items.map((item) => (
-//           <div
-//             className="h-screen w-screen flex items-center justify-center relative"
-//             key={item.id}
-//           >
-//             <div className="relative w-screen h-full">
-//               <Image
-//                 src={item.img}
-//                 alt={item.title}
-//                 fill
-//                 className="object-cover"
-//               />
-//             </div>
-//           </div>
-//         ))}
-//       </div>
-//     </div>
-//   );
-// }
-
 "use client";
 
 import React, { useCallback, useLayoutEffect, useRef, useState } from "react";
@@ -82,16 +12,13 @@ import Image from "next/image";
 import ResizeObserver from "resize-observer-polyfill";
 
 const items = [
-  { id: 1, img: "/gallery-1.png", title: "Gallery Image 1" },
-  { id: 2, img: "/gallery-2.png", title: "Gallery Image 2" },
-  { id: 3, img: "/gallery-3.png", title: "Gallery Image 3" },
-  { id: 4, img: "/gallery-4.png", title: "Gallery Image 4" },
-  { id: 5, img: "/gallery-5.png", title: "Gallery Image 5" },
-  { id: 6, img: "/gallery-6.png", title: "Gallery Image 6" },
-  { id: 7, img: "/gallery-7.png", title: "Gallery Image 7" },
-  { id: 8, img: "/gallery-8.png", title: "Gallery Image 8" },
-  { id: 9, img: "/gallery-9.png", title: "Gallery Image 9" },
-  { id: 10, img: "/gallery-10.png", title: "Gallery Image 10" },
+  { id: 1, img: "/gallery-1.jpg", title: "Gallery Image 1" },
+  { id: 2, img: "/gallery-2.jpg", title: "Gallery Image 2" },
+  { id: 3, img: "/gallery-3.jpg", title: "Gallery Image 3" },
+  { id: 4, img: "/gallery-4.jpg", title: "Gallery Image 4" },
+  { id: 5, img: "/gallery-5.jpg", title: "Gallery Image 5" },
+  { id: 6, img: "/gallery-6.jpg", title: "Gallery Image 6" },
+  { id: 7, img: "/gallery-7.jpg", title: "Gallery Image 7" },
 ];
 
 export default function Gallery(): JSX.Element {

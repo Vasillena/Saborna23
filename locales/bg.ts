@@ -5,29 +5,38 @@ export default {
     menu: "Меню",
     gallery: "Галерия",
     contact: "Контакти",
+    hours: "Работно време",
+    week: "Пон - Пет:",
+    weekend: "Съб - Нед:",
   },
   hero: {
-    text: " Сгушен в подножието на Стария град и началото на Капана, Съборна 23 е сборен пункт на любителите на авторската кухня, хубавото вино и перфектният сервиз в сърцето на Пловдив.",
+    text: "Сгушен в подножието на Стария град и началото на Капана, Съборна 23 е сборен пункт на любителите на авторската кухня, хубавото вино и перфектният сервиз в сърцето на Пловдив.",
   },
   about: {
-    title: "Bar “The Post”",
     "text-1":
-      "Bar “The Post” is a place with its own spirit, located in the heart of Plovdiv, next to the emblematic building of the Post Office.",
+      "Пътят към вкусната храна е застлан с павета. Със своя аристократичен уют “Съборна 23” те посреща величествено,за да те впечатли с храна и за “твоето място”.",
     "text-2":
-      "The atmosphere here intertwines history and modernity, inspired by retro elements such as mailboxes, old phones and stamps. Every corner carries a memory of the past, but with a modern sound, which makes Bar “The Post” a unique place for meetings and shared moments.",
+      "Ресторант „Съборна 23“ се намира в сърцето на Стария град в Пловдив и е разположен в красива възрожденска къща, която съчетава историческо наследство и модерен уют.",
     "text-3":
-      "Here the cocktails are created with care by experienced mixologists and tell stories with every sip. In Bar “The Post” every order carries the signature of the bartender, who puts passion and inspiration into every recipe. Whether you are looking for something light and refreshing or prefer stronger flavors, here you will find your perfect drink in a friendly and cozy atmosphere.",
+      "Интериорът създава елегантна и релаксираща атмосфера, подходяща както за семейни събирания, така и за романтични вечери. Вътрешната част на ресторант „Съборна 23“ е разпределена на два етажа с общ капацитет от 70 места които съчетават комфорт и елегантност.",
+    "text-4":
+      "Освен това, ресторантът разполага с отделна, уединена зала с 8 места, която е перфектна за делови срещи, семейни събирания или специални поводи.",
+    "text-5":
+      "Терасата предлага още 30 места и разкрива живописна гледка към Капана, създавайки уникална атмосфера за гостите.",
+    "text-6":
+      "Градината, с капацитет от 50 места, е просторна и идеална за топли вечери, предоставяйки приятно място за почивка и наслаждаване на вкусна храна.",
+    "text-7":
+      "Менюто предлага разнообразие от ястия с вдъхновение от балканската кухня. Храната се приготвя с внимание към детайла, комбинирайки традиционни рецепти и модерни кулинарни тенденции.",
+    "text-8":
+      "Виненият лист включва внимателно подбрани местни и международни вина, допълващи ястията.",
+    "text-9":
+      "Обстановката се отличава с уютни детайли и високо ниво на обслужване, които правят всяко посещение незабравимо.",
   },
   contacts: {
-    title: "Contact Us",
-    "text-1": "Address",
-    "text-1-1": "Gladston 8 Street,",
-    "text-1-2": "Plovdiv, Bulgaria 4000",
-    "text-2": "Contacts",
-    "text-3": "Working Hours",
-    "text-3-1": "Sunday - Thursday 10:00 - 1:00",
-    "text-3-2": "Friday - Saturday 10:00 - 3:00",
-    "text-4": "Follow Us",
+    "text-1":
+      "Допълваме специалните ви моменти и се грижим за страхотното извживяване на вас и вашите гости. С повод или без при нас всеки ден е празник!",
+    "text-2": "Заповядайте!",
+    "text-3": 'ул. "Константин Стоилов" 27, Пловдив',
   },
   menu: {
     title: "МЕНЮ",

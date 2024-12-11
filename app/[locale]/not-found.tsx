@@ -1,6 +1,6 @@
 import Image from "next/image";
-import MainButton from "../components/MainButton";
-import image from "@/public/404.webp";
+import Link from "next/link";
+import image from "@/public/404.png";
 
 export default function NotFound() {
   return (
@@ -16,7 +16,12 @@ export default function NotFound() {
             зарежда неправилно.
           </p>
           <div className="mt-10 flex justify-center">
-            <MainButton href={"/"} text={"Начална Страница"} />
+            <Link
+              href="/"
+              className="relative w-44 lg:w-60 h-10 lg:h-14 flex items-center justify-center text-xl hover:scale-105 transition-transform duration-300 bg-[#222222] text-white rounded-full"
+            >
+              <span className="z-10">Начална страница</span>
+            </Link>
           </div>
         </div>
       </div>

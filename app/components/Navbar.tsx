@@ -3,7 +3,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 
 import Image from "next/image";
-import Link from "next/link";
 import MainNav from "./MainNav";
 import { SwitchLanguage } from "./SwitchLanguage";
 import clock from "@/public/clock.svg";
@@ -11,11 +10,14 @@ import close from "@/public/close.svg";
 import logo from "@/public/logo-2.png";
 import menu from "@/public/menu.svg";
 import { motion } from "framer-motion";
+import { useI18n } from "@/locales/client";
 import { usePathname } from "next/navigation";
 
 export default function Navbar(): JSX.Element {
+  const t = useI18n();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
+  const [showHours, setShowHours] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
   const buttonRef = useRef<HTMLDivElement>(null);
 
@@ -55,26 +57,38 @@ export default function Navbar(): JSX.Element {
 
   return (
     <div className="max-w-[1440px]">
+      {/* Desktop Navbar */}
       <div
-        className={`max-w-[640px] hidden fixed bottom-10 left-0 right-0 mx-auto md:block z-50 transition-all duration-500 `}
+        className={`max-w-[640px] hidden fixed bottom-10 left-0 right-0 mx-auto md:block z-50 transition-all duration-500`}
       >
-        <div className="px-4 py-2 flex justify-center items-center bg-white rounded-full">
-          <button className="px-4">
+        <div className="px-4 py-2 flex justify-center items-center bg-white rounded-full relative">
+          <button
+            className="px-4 relative"
+            onMouseEnter={() => setShowHours(true)}
+            onMouseLeave={() => setShowHours(false)}
+          >
             <Image src={clock} alt="Clock" priority className="w-8 h-auto" />
+            {showHours && (
+              <div className="w-60 absolute top-[-480%] -left-20 bg-white shadow-md rounded-lg p-4 text-sm">
+                <h3 className="text-xl font-bold"> {t("nav.hours")}</h3>
+                <p className="text-lg">
+                  <span className="font-bold"> {t("nav.week")}</span> 5pm - 12am
+                </p>
+                <p className="text-lg">
+                  <span className="font-bold"> {t("nav.weekend")}</span> 1pm -
+                  12am
+                </p>
+              </div>
+            )}
           </button>
 
           <MainNav />
           <SwitchLanguage />
-          {/* <Link href="/" className="ml-4 flex lg:ml-0 lg:mr-6 px-5">
-              <Image src={clock} alt="Clock" priority className="w-16 h-auto" />
-            </Link> */}
-          {/* </MainNav> */}
         </div>
       </div>
-      <div
-        className="
-           max-w-[1440px] block fixed top-0 left-0 right-0 mx-auto md:hidden z-50"
-      >
+
+      <div className="max-w-[1440px] block fixed top-0 left-0 right-0 mx-auto md:hidden z-50">
+        <SwitchLanguage />
         <div className="w-full flex h-16 justify-between items-center px-4">
           <div className="w-full">
             <div
@@ -95,8 +109,9 @@ export default function Navbar(): JSX.Element {
               </button>
             </div>
           </div>
-          <div className="w-14 flex justify-center items-center">
-            <Link href="/">
+
+          <div className="w-14 flex justify-center items-center relative">
+            <button onClick={() => setShowHours(!showHours)}>
               <Image
                 src={clock}
                 alt="Clock"
@@ -104,10 +119,23 @@ export default function Navbar(): JSX.Element {
                 className="w-full h-auto p-2 rounded-full"
                 style={{ backgroundColor: "rgba(255, 255, 255, 0.7)" }}
               />
-            </Link>
+            </button>
+            {showHours && (
+              <div className="w-44 absolute top-[120%] -left-36 bg-white shadow-md rounded-lg p-4 text-center">
+                <h3 className="text-lg font-bold"> {t("nav.hours")}</h3>
+                <p>
+                  <span className="font-bold">{t("nav.week")}</span> 5pm - 12am
+                </p>
+                <p>
+                  <span className="font-bold">{t("nav.weekend")}</span> 1pm -
+                  12am
+                </p>
+              </div>
+            )}
           </div>
         </div>
       </div>
+
       {open && (
         <motion.div
           ref={menuRef}
@@ -130,15 +158,7 @@ export default function Navbar(): JSX.Element {
               />
             </button>
             <div className="w-full flex justify-center items-center z-50 mb-20">
-              <Image
-                src={logo}
-                alt="Logo"
-                // width={112}
-                width={120}
-                priority
-                // style={{ backgroundColor: "rgba(0, 0, 0, 0.7)" }}
-                // className="p-4 rounded-full"
-              />
+              <Image src={logo} alt="Logo" width={120} priority />
             </div>
             <MainNav closeMenu={closeMenu} />
           </div>

@@ -1,6 +1,15 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
+import Image from "next/image";
+import Link from "next/link";
+import { getI18n } from "@/locales/server";
+import location from "@/public/location.svg";
+import phone from "@/public/phone.svg";
+import socials1 from "@/public/socials-1.svg";
+import socials2 from "@/public/socials-2.svg";
+
 export default async function Contact(): Promise<JSX.Element> {
+  const t = await getI18n();
   return (
     <>
       <section className="max-w-[1440px] mx-auto relative h-screen grid grid-cols-1 md:grid-cols-2">
@@ -30,18 +39,53 @@ export default async function Contact(): Promise<JSX.Element> {
           </div>
         </div>
 
-        <div className="flex flex-col gap-20 items-center justify-center md:px-20 text-center mt-4 md:mt-0">
+        <div className="flex flex-col gap-20 items-center justify-center px-4 md:px-20 text-center mt-4 md:mt-0">
           <p className="text-xl lg:text-2xl">
-            Допълваме специалните ви моменти и се грижим за страхотното
-            извживяване на вас и вашите гости. С повод или без при нас всеки ден
-            е празник!
+            {t("contacts.text-1")}⁣ ⁣ <br />
+            {t("contacts.text-2")}⁣ ⁣
           </p>
-          <p className="text-xl lg:text-2xl">
-            Направете вашата резервация на телефон: <br />
-            089 023 6023 <br />
-            или заповядайте на място на адрес: <br />
-            ул. &quot;Константин Стоилов&quot; 27, Пловдив.
-          </p>
+
+          <address className="not-italic">
+            <p className="flex justify-center items-center gap-4 text-xl lg:text-2xl">
+              <Image src={phone} alt="Phone" priority className="w-6 h-auto" />
+              <a href="tel:0890236023">089 023 6023</a>
+            </p>
+
+            <p className="flex justify-center items-center gap-4 text-xl lg:text-2xl">
+              <Image
+                src={location}
+                alt="Location"
+                priority
+                className="w-6 h-auto"
+              />
+              <a
+                href="https://goo.gl/maps/xXY123"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {t("contacts.text-3")}⁣ ⁣
+              </a>
+            </p>
+          </address>
+
+          <div className="flex gap-4">
+            <Link href="https://www.facebook.com/saborna23" target="_blank">
+              <Image
+                src={socials1}
+                alt="Facebook"
+                priority
+                className="w-6 h-auto"
+              />
+            </Link>
+            <Link href="https://www.instagram.com/saborna.23/" target="_blank">
+              <Image
+                src={socials2}
+                alt="Instagram"
+                priority
+                className="w-6 h-auto"
+              />
+            </Link>
+          </div>
         </div>
       </section>
     </>

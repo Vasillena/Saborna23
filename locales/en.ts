@@ -5,30 +5,41 @@ export default {
     menu: "Menu",
     gallery: "Gallery",
     contact: "Contact",
+    hours: "Opening Hours",
+    week: "Mon - Fri:",
+    weekend: "Sat - Sun:",
   },
   hero: {
-    text: "Nestled at the foot of the Old Town and the beginning of Kapana, Săborna 23 is a gathering spot for enthusiasts of gourmet cuisine, fine wine, and perfect service in the heart of Plovdiv.",
+    text: "Nestled at the foot of the Old Town and the beginning of Kapana, 'Saborna 23' is a gathering spot for enthusiasts of gourmet cuisine, fine wine, and perfect service in the heart of Plovdiv.",
   },
   about: {
-    title: "Bar “The Post”",
     "text-1":
-      "Bar “The Post” is a place with its own spirit, located in the heart of Plovdiv, next to the emblematic building of the Post Office.",
+      "The path to delicious food is paved with cobblestones. With its aristocratic charm, 'Saborna 23' welcomes you majestically, ready to impress with its cuisine and 'your special place.'",
     "text-2":
-      "The atmosphere here intertwines history and modernity, inspired by retro elements such as mailboxes, old phones and stamps. Every corner carries a memory of the past, but with a modern sound, which makes Bar “The Post” a unique place for meetings and shared moments.",
+      "Restaurant 'Saborna 23' is located in the heart of Plovdiv's Old Town, housed in a beautiful Bulgarian Revival-style building that blends historical heritage with modern comfort.",
     "text-3":
-      "Here the cocktails are created with care by experienced mixologists and tell stories with every sip. In Bar “The Post” every order carries the signature of the bartender, who puts passion and inspiration into every recipe. Whether you are looking for something light and refreshing or prefer stronger flavors, here you will find your perfect drink in a friendly and cozy atmosphere.",
+      "The interior creates an elegant and relaxing atmosphere, perfect for family gatherings and romantic dinners alike. The indoor area of 'Saborna 23' is spread across two floors with a total capacity of 70 seats, combining comfort and sophistication.",
+    "text-4":
+      "In addition, the restaurant offers a separate, private room with 8 seats, perfect for business meetings, family gatherings, or special occasions.",
+    "text-5":
+      "The terrace offers 30 more seats and reveals a picturesque view of Kapana, creating a unique atmosphere for guests.",
+    "text-6":
+      "The garden, with a capacity of 50 seats, is spacious and ideal for warm evenings, providing a pleasant place to relax and enjoy delicious food.",
+    "text-7":
+      "The menu offers a variety of dishes inspired by Balkan cuisine. The food is prepared with attention to detail, combining traditional recipes with modern culinary trends.",
+    "text-8":
+      "The wine list includes carefully selected local and international wines to perfectly complement the dishes.",
+    "text-9":
+      "The ambiance is distinguished by cozy details and a high level of service, making every visit unforgettable.",
   },
+
   contacts: {
-    title: "Contact Us",
-    "text-1": "Address",
-    "text-1-1": "Gladston 8 Street,",
-    "text-1-2": "Plovdiv, Bulgaria 4000",
-    "text-2": "Contacts",
-    "text-3": "Working Hours",
-    "text-3-1": "Sunday - Thursday 10:00 - 1:00",
-    "text-3-2": "Friday - Saturday 10:00 - 3:00",
-    "text-4": "Follow Us",
+    "text-1":
+      "We enhance your special moments and ensure an amazing experience for you and your guests. With or without an occasion, every day with us is a celebration!",
+    "text-2": "Welcome!",
+    "text-3": '27 "Konstantin Stoilov" St., Plovdiv',
   },
+
   menu: {
     title: "MENU",
     drinks: "Drinks",

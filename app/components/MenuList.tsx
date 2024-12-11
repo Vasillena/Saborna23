@@ -4,7 +4,10 @@ import { BitterRose, ChillaxMedium } from "../utils/fonts";
 import { useCurrentLocale, useI18n } from "@/locales/client";
 import { useEffect, useState } from "react";
 
+import Image from "next/image";
+import Link from "next/link";
 import MenuCard from "./MenuCard";
+import back from "@/public/back.svg";
 import menuListBG from "../menuList/menuListBG.json";
 import menuListEN from "../menuList/menuList.json";
 import { usePathname } from "next/navigation";
@@ -52,16 +55,12 @@ export default function MenuList(): JSX.Element {
             className="max-w-[800px] mx-auto flex flex-col mt-10"
           >
             <div className="flex flex-col items-center">
-              <h4 className=" text-[14px] md:text-xl text-center">
-                {item.name}
-              </h4>
+              <h4 className="text-xl text-center">{item.name}</h4>
               {item.description && (
-                <p className="text-[14px] md:text-lg text-center">
-                  {item.description}
-                </p>
+                <p className="text-lg text-center">{item.description}</p>
               )}
               {item.price && item.quantity && (
-                <span className="font-bold text-[14px] md:text-xl">
+                <span className="font-bold text-xl">
                   {`${item.price} / ${item.quantity}`}
                 </span>
               )}
@@ -103,13 +102,21 @@ export default function MenuList(): JSX.Element {
           </div>
         </div>
 
-        <div className="pt-20 pb-60 flex flex-col gap-20 items-center px-4 text-center overflow-y-scroll no-scrollbar z-50">
+        <div className="pt-20 xl:pb-60 flex flex-col gap-20 items-center px-4 text-center overflow-y-scroll no-scrollbar z-50">
           <div className="w-full grid grid-cols-1 items-center">
             <div className=" px-4 sm:px-20 py-16 -mt-28 md:-mt-20 lg:-mt-32 text-center lg:text-left">
               <div className="flex flex-col items-center mt-16 sm:mt-20">
-                <div className="flex flex-col sm:flex-row flex-wrap justify-center items-center gap-0 sm:gap-8">
+                <div className="flex flex-wrap justify-center items-center gap-8">
                   {category === "drinks" && (
                     <>
+                      <Link href="/menu">
+                        <Image
+                          src={back}
+                          alt="Back"
+                          priority
+                          className="w-full h-auto"
+                        />
+                      </Link>
                       <MenuCard
                         text1={t("menu.hotDrinks")}
                         onClick={() => setSelectedTab("Hot Drinks")}
@@ -179,6 +186,14 @@ export default function MenuList(): JSX.Element {
                   )}
                   {category === "wine" && (
                     <>
+                      <Link href="/menu">
+                        <Image
+                          src={back}
+                          alt="Back"
+                          priority
+                          className="w-full h-auto"
+                        />
+                      </Link>
                       <MenuCard
                         text1={t("menu.white")}
                         onClick={() => setSelectedTab("White")}
@@ -203,6 +218,14 @@ export default function MenuList(): JSX.Element {
                   )}
                   {category === "food" && (
                     <>
+                      <Link href="/menu">
+                        <Image
+                          src={back}
+                          alt="Back"
+                          priority
+                          className="w-full h-auto"
+                        />
+                      </Link>
                       <MenuCard
                         text1={t("menu.salads")}
                         onClick={() => setSelectedTab("Salads")}
