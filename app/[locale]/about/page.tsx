@@ -84,7 +84,7 @@ export async function generateMetadata({
   };
 }
 
-export default function AboutPage() {
+export default async function AboutPage() {
   return (
     <>
       <About />
