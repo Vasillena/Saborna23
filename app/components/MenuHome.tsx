@@ -1,5 +1,6 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
+import { JSX } from "react";
 import Link from "next/link";
 
 interface MenuItemProps {

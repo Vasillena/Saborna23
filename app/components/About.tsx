@@ -1,6 +1,7 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
 import Image from "next/image";
+import { JSX } from "react";
 import decor from "@/public/about-2.png";
 import decor2 from "@/public/about-3.jpg";
 import decor3 from "@/public/about-4.jpg";

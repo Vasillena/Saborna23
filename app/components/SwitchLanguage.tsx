@@ -3,6 +3,7 @@
 import { useChangeLocale, useCurrentLocale } from "../../locales/client";
 
 import Image from "next/image";
+import { JSX } from "react";
 import language from "@/public/language.svg";
 
 export function SwitchLanguage(): JSX.Element {

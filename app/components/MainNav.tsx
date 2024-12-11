@@ -1,11 +1,11 @@
 "use client";
 
+import { JSX, useMemo } from "react";
 import { useCurrentLocale, useI18n } from "@/locales/client";
 import { usePathname, useRouter } from "next/navigation";
 
 import { ChillaxMedium } from "../utils/fonts";
 import Link from "next/link";
-import { useMemo } from "react";
 
 interface MainNavProps {
   children?: React.ReactNode;

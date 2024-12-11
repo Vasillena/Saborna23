@@ -1,8 +1,8 @@
 "use client";
 
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
+import { JSX, useEffect, useState } from "react";
 import { useCurrentLocale, useI18n } from "@/locales/client";
-import { useEffect, useState } from "react";
 
 import Image from "next/image";
 import Link from "next/link";

@@ -1,6 +1,7 @@
 import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
 import Image from "next/image";
+import { JSX } from "react";
 import Link from "next/link";
 import { getI18n } from "@/locales/server";
 import location from "@/public/location.svg";

@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 
 import Image from "next/image";
+import { JSX } from "react";
 import MainNav from "./MainNav";
 import { SwitchLanguage } from "./SwitchLanguage";
 import clock from "@/public/clock.svg";
