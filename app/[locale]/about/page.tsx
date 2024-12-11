@@ -1,7 +1,16 @@
+import type { Metadata, ResolvingMetadata } from "next";
+
 import About from "@/app/components/About";
 
-export function generateMetadata({ params }: { params: { locale: string } }) {
-  const { locale } = params;
+type Props = {
+  params: Promise<{ locale: string }>;
+};
+
+export async function generateMetadata(
+  { params }: Props,
+  parent: ResolvingMetadata
+): Promise<Metadata> {
+  const locale = (await params).locale;
 
   let title, description, keywords;
 
