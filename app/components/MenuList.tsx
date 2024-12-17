@@ -7,6 +7,7 @@ import { useCurrentLocale, useI18n } from "@/locales/client";
 import Image from "next/image";
 import Link from "next/link";
 import MenuCard from "./MenuCard";
+import Reveal from "./Animations/Reveal";
 import back from "@/public/back.svg";
 import menuListBG from "../menuList/menuListBG.json";
 import menuListEN from "../menuList/menuList.json";
@@ -87,18 +88,20 @@ export default function MenuList(): JSX.Element {
             className="w-full text-center p-10"
             style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
           >
-            <h1
-              className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
-            >
-              Menu <br />
-              <span
-                className={`text-7xl text-white ${ChillaxMedium.className}`}
+            <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+              <h1
+                className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
               >
-                {(category === "drinks" && "Drinks") ||
-                  (category === "wine" && "Wine") ||
-                  (category === "food" && "Food")}
-              </span>
-            </h1>
+                Menu <br />
+                <span
+                  className={`text-7xl text-white ${ChillaxMedium.className}`}
+                >
+                  {(category === "drinks" && "Drinks") ||
+                    (category === "wine" && "Wine") ||
+                    (category === "food" && "Food")}
+                </span>
+              </h1>
+            </Reveal>
           </div>
         </div>
 

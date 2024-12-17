@@ -2,6 +2,7 @@ import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
 import { JSX } from "react";
 import Link from "next/link";
+import Reveal from "./Animations/Reveal";
 
 interface MenuItemProps {
   href: string;
@@ -25,16 +26,18 @@ const MenuItem = ({ href, background, title, subtitle }: MenuItemProps) => (
       className="w-full text-center p-10"
       style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
     >
-      <h1
-        className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
-      >
-        {title} <br />
-        <span
-          className={`text-5xl sm:text-7xl text-white ${ChillaxMedium.className}`}
+      <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+        <h1
+          className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
         >
-          {subtitle}
-        </span>
-      </h1>
+          {title} <br />
+          <span
+            className={`text-5xl sm:text-7xl text-white ${ChillaxMedium.className}`}
+          >
+            {subtitle}
+          </span>
+        </h1>
+      </Reveal>
     </div>
   </Link>
 );

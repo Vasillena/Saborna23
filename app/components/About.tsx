@@ -2,6 +2,7 @@ import { BitterRose, ChillaxMedium } from "../utils/fonts";
 
 import Image from "next/image";
 import { JSX } from "react";
+import Reveal from "./Animations/Reveal";
 import decor from "@/public/about-2.png";
 import decor2 from "@/public/about-3.jpg";
 import decor3 from "@/public/about-4.jpg";
@@ -29,28 +30,35 @@ export default async function About(): Promise<JSX.Element> {
             className="w-full text-center p-10"
             style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
           >
-            <h1
-              className={`mb-8 text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
-            >
-              About <br />
-              <span
-                className={`text-7xl text-white ${ChillaxMedium.className}`}
+            <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+              <h1
+                className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
               >
-                Us
-              </span>
-            </h1>
+                About <br />
+                <span
+                  className={`text-7xl text-white ${ChillaxMedium.className}`}
+                >
+                  Us
+                </span>
+              </h1>
+            </Reveal>
           </div>
         </div>
 
         <div className="h-screen pt-20 pb-20 md:pb-60 flex flex-col gap-10 items-center px-4 md:px-20 text-center overflow-y-scroll no-scrollbar">
           <p className="text-xl lg:text-2xl">{t("about.text-1")}⁣</p>
-          <div className="w-full">
-            <Image src={decor} alt="Decor" width={680} priority />
-          </div>
+          <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+            <div className="w-full">
+              <Image src={decor} alt="Decor" width={680} priority />
+            </div>
+          </Reveal>
           <p className="text-xl lg:text-2xl">{t("about.text-2")}</p>
-          <div className="w-full">
-            <Image src={decor7} alt="Decor" width={680} priority />
-          </div>
+          <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+            <div className="w-full">
+              <Image src={decor7} alt="Decor" width={680} priority />
+            </div>
+          </Reveal>
+
           <p className="text-xl lg:text-2xl">{t("about.text-3")}</p>
           <div className="w-full">
             <Image src={decor2} alt="Decor" width={680} priority />
