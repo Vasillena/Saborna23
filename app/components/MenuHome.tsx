@@ -46,19 +46,19 @@ export default async function MenuHome(): Promise<JSX.Element> {
   const menuItems = [
     {
       href: "/menu/drinks",
-      background: "/menu-1.png",
+      background: "/menu-1.webp",
       title: "Drinks",
       subtitle: "Refreshing",
     },
     {
       href: "/menu/wine",
-      background: "/menu-2.png",
+      background: "/menu-2.webp",
       title: "Wine",
       subtitle: "Fine",
     },
     {
       href: "/menu/food",
-      background: "/menu-3.png",
+      background: "/menu-3.webp",
       title: "Food",
       subtitle: "Delectable",
     },

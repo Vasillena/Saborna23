@@ -4,12 +4,6 @@ import { JSX } from "react";
 import Reveal from "./Animations/Reveal";
 import { getI18n } from "@/locales/server";
 
-// import Image from "next/image";
-// import Link from "next/link";
-
-// import socials1 from "@/public/socials-1.png";
-// import socials2 from "@/public/socials-2.png";
-
 export default async function Hero(): Promise<JSX.Element> {
   const t = await getI18n();
 
@@ -19,7 +13,7 @@ export default async function Hero(): Promise<JSX.Element> {
         <div
           className={`w-full h-full flex flex-col justify-center items-center`}
           style={{
-            background: `url("/hero.png")`,
+            background: `url("/hero.webp")`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",

@@ -18,13 +18,13 @@ import Image from "next/image";
 import ResizeObserver from "resize-observer-polyfill";
 
 const items = [
-  { id: 1, img: "/gallery-1.jpg", title: "Gallery Image 1" },
-  { id: 2, img: "/gallery-2.jpg", title: "Gallery Image 2" },
-  { id: 3, img: "/gallery-3.jpg", title: "Gallery Image 3" },
-  { id: 4, img: "/gallery-4.jpg", title: "Gallery Image 4" },
-  { id: 5, img: "/gallery-5.jpg", title: "Gallery Image 5" },
-  { id: 6, img: "/gallery-6.jpg", title: "Gallery Image 6" },
-  { id: 7, img: "/gallery-7.jpg", title: "Gallery Image 7" },
+  { id: 1, img: "/gallery-1.webp", title: "Gallery Image 1" },
+  { id: 2, img: "/gallery-2.webp", title: "Gallery Image 2" },
+  { id: 3, img: "/gallery-3.webp", title: "Gallery Image 3" },
+  { id: 4, img: "/gallery-4.webp", title: "Gallery Image 4" },
+  { id: 5, img: "/gallery-5.webp", title: "Gallery Image 5" },
+  { id: 6, img: "/gallery-6.webp", title: "Gallery Image 6" },
+  { id: 7, img: "/gallery-7.webp", title: "Gallery Image 7" },
 ];
 
 export default function Gallery(): JSX.Element {

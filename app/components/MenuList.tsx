@@ -78,7 +78,7 @@ export default function MenuList(): JSX.Element {
         <div
           className={`relative w-full h-full flex flex-col justify-center items-center `}
           style={{
-            background: `url("/menu-4.png")`,
+            background: `url("/menu-4.webp")`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",

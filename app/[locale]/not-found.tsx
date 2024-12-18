@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import image from "@/public/404.png";
+import image from "@/public/404.webp";
 
 export default function NotFound() {
   return (

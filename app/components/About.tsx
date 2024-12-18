@@ -3,13 +3,13 @@ import { BitterRose, ChillaxMedium } from "../utils/fonts";
 import Image from "next/image";
 import { JSX } from "react";
 import Reveal from "./Animations/Reveal";
-import decor from "@/public/about-2.png";
-import decor2 from "@/public/about-3.jpg";
-import decor3 from "@/public/about-4.jpg";
-import decor4 from "@/public/about-5.jpg";
-import decor5 from "@/public/about-6.png";
-import decor6 from "@/public/about-7.jpg";
-import decor7 from "@/public/about-8.jpg";
+import decor from "@/public/about-2.webp";
+import decor2 from "@/public/about-3.webp";
+import decor3 from "@/public/about-4.webp";
+import decor4 from "@/public/about-5.webp";
+import decor5 from "@/public/about-6.webp";
+import decor6 from "@/public/about-7.webp";
+import decor7 from "@/public/about-8.webp";
 import { getI18n } from "@/locales/server";
 
 export default async function About(): Promise<JSX.Element> {
@@ -20,7 +20,7 @@ export default async function About(): Promise<JSX.Element> {
         <div
           className={`relative w-full h-full flex flex-col justify-center items-center`}
           style={{
-            background: `url("/about.png")`,
+            background: `url("/about.webp")`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",

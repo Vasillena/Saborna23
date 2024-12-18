@@ -8,7 +8,7 @@ import MainNav from "./MainNav";
 import { SwitchLanguage } from "./SwitchLanguage";
 import clock from "@/public/clock.svg";
 import close from "@/public/close.svg";
-import logo from "@/public/logo-2.png";
+import logo from "@/public/logo-2.webp";
 import menu from "@/public/menu.svg";
 import { motion } from "framer-motion";
 import { useI18n } from "@/locales/client";

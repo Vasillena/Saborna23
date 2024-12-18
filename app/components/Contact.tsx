@@ -18,7 +18,7 @@ export default async function Contact(): Promise<JSX.Element> {
         <div
           className={`relative w-full h-full flex flex-col justify-center items-center`}
           style={{
-            background: `url("/contact.png")`,
+            background: `url("/contact.webp")`,
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",

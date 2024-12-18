@@ -5,7 +5,7 @@ import { MazzardLRegular } from "../utils/fonts";
 import Navbar from "../components/Navbar";
 import Provider from "./provider";
 import { ReactNode } from "react";
-import logo from "@/public/logo.png";
+import logo from "@/public/logo.webp";
 
 export async function generateMetadata({
   params,
