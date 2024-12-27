@@ -101,7 +101,14 @@ export default async function RootLayout({
       <body className={`${MazzardLRegular.className} antialiased`}>
         <Provider locale={Promise.resolve({ locale })}>
           <div className="hidden absolute top-8 w-full md:flex justify-center items-center z-50">
-            <Image src={logo} alt="Logo" width={200} priority />
+            <div className="w-[160px] xl:w-[200px]">
+              <Image
+                src={logo}
+                alt="Logo"
+                // width={200}
+                priority
+              />
+            </div>
           </div>
 
           {children}

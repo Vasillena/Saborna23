@@ -28,11 +28,11 @@ const MenuItem = ({ href, background, title, subtitle }: MenuItemProps) => (
     >
       <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
         <h1
-          className={`text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
+          className={`text-4xl sm:text-5xl xl:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
         >
           {title} <br />
           <span
-            className={`text-5xl sm:text-7xl text-white ${ChillaxMedium.className}`}
+            className={`text-5xl xl:text-7xl text-white ${ChillaxMedium.className}`}
           >
             {subtitle}
           </span>

@@ -25,11 +25,11 @@ export default async function Hero(): Promise<JSX.Element> {
           >
             <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
               <h1
-                className={`mb-8 text-4xl lg:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
+                className={`mb-8 text-4xl sm:text-5xl xl:text-7xl text-[#BAB2A7] ${BitterRose.className}`}
               >
                 The pure taste of <br />
                 <span
-                  className={`text-7xl lg:text-[160px] text-white  ${ChillaxMedium.className}`}
+                  className={`text-7xl sm:text-8xl xl:text-[160px] text-white  ${ChillaxMedium.className}`}
                 >
                   plovdiv
                 </span>

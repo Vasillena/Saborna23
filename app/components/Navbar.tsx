@@ -122,7 +122,7 @@ export default function Navbar(): JSX.Element {
               />
             </button>
             {showHours && (
-              <div className="w-44 absolute top-[120%] -left-36 bg-white shadow-md rounded-lg p-4 text-center">
+              <div className="w-48 absolute top-[120%] -left-40 bg-white shadow-md rounded-lg p-4 text-center">
                 <h3 className="text-lg font-bold"> {t("nav.hours")}</h3>
                 <p>
                   <span className="font-bold">{t("nav.week")}</span> 5pm - 12am

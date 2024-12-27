@@ -74,13 +74,13 @@ export default async function Contact(): Promise<JSX.Element> {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  {t("contacts.text-3")}⁣ ⁣
+                  {t("contacts.text-3")}
                 </a>
               </p>
             </address>
           </Reveal>
           <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
-            <div className="flex gap-4">
+            <div className="flex gap-4 pb-20 md:0">
               <Link href="https://www.facebook.com/saborna23" target="_blank">
                 <Image
                   src={socials1}
