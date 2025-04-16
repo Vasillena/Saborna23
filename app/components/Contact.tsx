@@ -70,7 +70,7 @@ export default async function Contact(): Promise<JSX.Element> {
                   className="w-6 h-auto"
                 />
                 <a
-                  href="https://goo.gl/maps/xXY123"
+                  href="https://www.google.com/maps?q=%D1%83%D0%BB.+%22%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD+%D0%A1%D1%82%D0%BE%D0%B8%D0%BB%D0%BE%D0%B2%22+27,+%D0%9F%D0%BB%D0%BE%D0%B2%D0%B4%D0%B8%D0%B2"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

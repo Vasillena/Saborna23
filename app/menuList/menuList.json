@@ -755,7 +755,7 @@
       "id": 97,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Salad with tomato, eggplant, cream of labneh and parsley dressing, served with fried zucchini and red pepper, croutons with mixed salt, olives, pickled onion and parsley|1, 2, 3|",
+      "name": "Salad with tomato, eggplant, cream of labneh and parsley dressing, served with fried zucchini and red pepper, croutons with mixed salt, olives, pickled onion and parsley|1, 2, 3, 10|",
       "price": "18.90 BGN",
       "quantity": "350 g"
     },
@@ -788,7 +788,7 @@
       "id": 101,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Provence salad with baby spinach, blue cheese and fruits in a walnut praline dressing, served with pickled onion, edamame, caramelized pecans, green figs and honey balsamic glaze |5, 1, 3|",
+      "name": "Provence salad with baby spinach, blue cheese and fruits in a walnut praline dressing, served with pickled onion, edamame, caramelized pecans, green figs and honey balsamic glaze |5, 1, 3, 6|",
       "price": "19.90 BGN",
       "quantity": "340 g"
     },
@@ -796,7 +796,7 @@
       "id": 102,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Herring under a coat with boiled egg, smoked paprika, butter, pickled egg yolk and parsley |10, 4|",
+      "name": "Herring under a coat with boiled egg, smoked paprika, butter, pickled egg yolk and parsley |10, 4, 1|",
       "price": "13.90 BGN",
       "quantity": "300 g"
     },
@@ -812,7 +812,7 @@
       "id": 104,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Tzatziki with beetroot and pickles, confit garlic with spices, avocado, dill and a roasted garlic and avocado cream |1, 7, 2, 8|",
+      "name": "Tzatziki with beetroot and pickles, confit garlic with spices, avocado, dill and a roasted garlic and avocado cream |1, 7, 8|",
       "price": "13.90 BGN",
       "quantity": "240 g"
     },
@@ -820,7 +820,7 @@
       "id": 105,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Tirokafteri with marinated chili pepper, fresh spring onion, cherry tomatoes and grilled sourdough bread",
+      "name": "Tirokafteri with marinated chili pepper, fresh spring onion, cherry tomatoes and grilled sourdough bread |1, 2|",
       "price": "13.90 BGN",
       "quantity": "290 g"
     },
@@ -876,7 +876,7 @@
       "id": 112,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Slow-cooked pork neck steak with pumpkin cream on buttery mashed potatoes, mustard gravy roasted sauce, caramelized celeriac and roasted cherry tomatoes |3, 9, 1|",
+      "name": "Slow-cooked pork neck steak with pumpkin cream on buttery mashed potatoes, mustard gravy roasted sauce, caramelized celeriac and roasted cherry tomatoes |3, 9, 1, 2|",
       "price": "25.90 BGN",
       "quantity": "410 g"
     },
@@ -884,7 +884,7 @@
       "id": 113,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Braised veal and lamb mince with caramelized bacon and cheese, served on spicy potatoes with a creamy coleslaw and carrot salad, lutenitza, fresh spring onion and hot pepper |1|",
+      "name": "Braised veal and lamb mince with caramelized bacon and cheese, served on spicy potatoes with a creamy coleslaw and carrot salad, lutenitza, fresh spring onion and hot pepper |1, 10|",
       "price": "25.90 BGN",
       "quantity": "550 g"
     },
@@ -916,7 +916,7 @@
       "id": 117,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Teriyaki salmon steak with fried peanuts and sesame on basmati rice with vegetables |4, 8, 7|",
+      "name": "Teriyaki salmon steak with fried peanuts and sesame on basmati rice with vegetables |4, 8, 7, 5, 1|",
       "price": "26.90 BGN",
       "quantity": "420 g"
     },

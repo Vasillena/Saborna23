@@ -14,7 +14,7 @@ export default {
   },
   about: {
     "text-1":
-      "The path to delicious food is paved with cobblestones. With its aristocratic charm, 'Saborna 23' welcomes you majestically, ready to impress with its cuisine and 'your special place.'",
+      "The path to delicious food is paved with cobblestones. With its aristocratic charm, 'Saborna 23' welcomes you majestically, ready to impress with its cuisine and the feeling of 'your special place.'",
     "text-2":
       "Restaurant 'Saborna 23' is located in the heart of Plovdiv's Old Town, housed in a beautiful Bulgarian Revival-style building that blends historical heritage with modern comfort.",
     "text-3":
