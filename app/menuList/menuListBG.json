@@ -70,14 +70,6 @@
       "id": 12,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
-      "name": "Премиум газирана напитка Three Cent",
-      "price": "6.50 BGN",
-      "quantity": "250 ml"
-    },
-    {
-      "id": 13,
-      "category": "drinks",
-      "semi-category": "Non-alcoholic Drinks",
       "name": "Премиум газирана напитка Three Cents",
       "price": "6.50 BGN",
       "quantity": "200 ml"
