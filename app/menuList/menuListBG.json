@@ -50,7 +50,7 @@
       "quantity": "1000 ml"
     },
     {
-      "id": 9,
+      "id": 7,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Продукти Кока-Кола",
@@ -58,7 +58,7 @@
       "quantity": "250 ml"
     },
     {
-      "id": 11,
+      "id": 8,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Сок Cappy",
@@ -67,7 +67,7 @@
       "description": "|портокал, вишна, праскова|"
     },
     {
-      "id": 12,
+      "id": 9,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Премиум газирана напитка Three Cents",
@@ -75,7 +75,7 @@
       "quantity": "200 ml"
     },
     {
-      "id": 14,
+      "id": 10,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Fever Tree Mediterranean",
@@ -83,7 +83,7 @@
       "quantity": "200 ml"
     },
     {
-      "id": 15,
+      "id": 11,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Енергийна напитка Redbull",
@@ -91,7 +91,7 @@
       "quantity": "250 ml"
     },
     {
-      "id": 16,
+      "id": 12,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Лимонада",
@@ -100,7 +100,7 @@
       "description": "|маракуя, малина|"
     },
     {
-      "id": 17,
+      "id": 13,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Лимонада",
@@ -109,7 +109,7 @@
       "description": "|маракуя, малина|"
     },
     {
-      "id": 18,
+      "id": 14,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Студен чай  Tea Forte за двама",
@@ -118,7 +118,7 @@
       "description": "|Черен с портокал и папая, Зелен  с манго и праскова, Билков малинов нектар|"
     },
     {
-      "id": 20,
+      "id": 15,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Raspberry Sour",
@@ -127,7 +127,7 @@
       "description": "|Малинова ракия, сироп малина, лимон, краставица, веган белтък|"
     },
     {
-      "id": 21,
+      "id": 16,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Hendricks Spritz",
@@ -136,7 +136,7 @@
       "description": "|джин Hendricks Oasium, портокалов ликьор, просеко|"
     },
     {
-      "id": 22,
+      "id": 17,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Pink Spritz",
@@ -145,7 +145,7 @@
       "description": "|Ягодова водка, сладък вермут, битер ревен, Fever Tree тоник|"
     },
     {
-      "id": 23,
+      "id": 18,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Paloma",
@@ -154,7 +154,7 @@
       "description": "|Текила Milagro, лайм, Three Cent грейпфрут сода|"
     },
     {
-      "id": 24,
+      "id": 19,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Virgin G&T",
@@ -163,7 +163,7 @@
       "description": "|Flure малина, мента, малини, Fever Tree тоник|"
     },
     {
-      "id": 25,
+      "id": 20,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Grant’s Triple Wood 8YO",
@@ -171,7 +171,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 26,
+      "id": 21,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Tullamore D.E.W  Х.О.",
@@ -179,7 +179,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 27,
+      "id": 22,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Wild Turkey 81",
@@ -187,7 +187,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 28,
+      "id": 23,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Jack daniels",
@@ -195,7 +195,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 29,
+      "id": 24,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Monkey Shoulder",
@@ -203,15 +203,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 30,
-      "category": "drinks",
-      "semi-category": "Whiskey",
-      "name": "Chivas 15",
-      "price": "16.90 BGN",
-      "quantity": "50 ml"
-    },
-    {
-      "id": 31,
+      "id": 25,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 12YO",
@@ -219,7 +211,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 32,
+      "id": 26,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 15YO",
@@ -227,7 +219,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 33,
+      "id": 27,
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 18YO",
@@ -235,7 +227,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 34,
+      "id": 28,
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "JJ Whitley",
@@ -243,7 +235,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 35,
+      "id": 29,
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Reyka",
@@ -251,7 +243,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 36,
+      "id": 30,
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Beluga Noble",
@@ -259,7 +251,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 37,
+      "id": 31,
       "category": "drinks",
       "semi-category": "Gin",
       "name": "JJ Whitley London Dry/Pink",
@@ -267,7 +259,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 38,
+      "id": 32,
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Votanikon",
@@ -275,7 +267,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 39,
+      "id": 33,
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s",
@@ -283,7 +275,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 40,
+      "id": 34,
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s Oasium",
@@ -291,7 +283,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 41,
+      "id": 35,
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Metaxa 7*",
@@ -299,7 +291,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 42,
+      "id": 36,
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Hennessy VS",
@@ -307,7 +299,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 43,
+      "id": 37,
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Angostura Reserva",
@@ -315,7 +307,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 44,
+      "id": 38,
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Sailor Jerry",
@@ -323,7 +315,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 45,
+      "id": 39,
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro silver",
@@ -331,7 +323,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 46,
+      "id": 40,
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro reposado",
@@ -339,7 +331,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 47,
+      "id": 41,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Рубаят 15г",
@@ -347,7 +339,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 48,
+      "id": 42,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Аламбик мускат",
@@ -355,7 +347,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 49,
+      "id": 43,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Гроздова",
@@ -363,7 +355,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 50,
+      "id": 44,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Сливова",
@@ -371,7 +363,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 51,
+      "id": 45,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Крушова",
@@ -379,7 +371,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 52,
+      "id": 46,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Дюлева",
@@ -387,7 +379,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 53,
+      "id": 47,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Тривунова Крушова Премиум",
@@ -395,7 +387,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 54,
+      "id": 48,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Тривунова Дюлева Премиум",
@@ -403,7 +395,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 55,
+      "id": 49,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Филипов Малинова",
@@ -411,7 +403,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 56,
+      "id": 50,
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Бейлярбей Гюбек",
@@ -419,7 +411,7 @@
       "quantity": "200 ml"
     },
     {
-      "id": 57,
+      "id": 51,
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Pilavas",
@@ -427,7 +419,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 58,
+      "id": 52,
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Pilavas",
@@ -435,7 +427,7 @@
       "quantity": "200 ml"
     },
     {
-      "id": 59,
+      "id": 53,
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Adolo",
@@ -443,7 +435,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 60,
+      "id": 54,
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Pernod",
@@ -451,7 +443,7 @@
       "quantity": "50 ml"
     },
     {
-      "id": 61,
+      "id": 55,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Limoncino Bottega",
@@ -459,7 +451,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 62,
+      "id": 56,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Branca Menta",
@@ -467,7 +459,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 63,
+      "id": 57,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Jagermeister",
@@ -475,7 +467,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 64,
+      "id": 58,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Campari",
@@ -483,7 +475,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 66,
+      "id": 59,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Baileys",
@@ -491,7 +483,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 67,
+      "id": 60,
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Skinos Mastiha",
@@ -499,7 +491,7 @@
       "quantity": "25 ml"
     },
     {
-      "id": 68,
+      "id": 61,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Наливна Stella Artois",
@@ -507,7 +499,7 @@
       "quantity": "330 ml"
     },
     {
-      "id": 69,
+      "id": 62,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Наливна Stella Artois",
@@ -515,7 +507,7 @@
       "quantity": "500 ml"
     },
     {
-      "id": 70,
+      "id": 63,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Каменица",
@@ -523,7 +515,7 @@
       "quantity": "330 ml"
     },
     {
-      "id": 71,
+      "id": 64,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Stella Artois",
@@ -531,7 +523,7 @@
       "quantity": "330 ml"
     },
     {
-      "id": 72,
+      "id": 65,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Madri",
@@ -539,7 +531,7 @@
       "quantity": "330 ml"
     },
     {
-      "id": 73,
+      "id": 66,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Corona",
@@ -547,7 +539,7 @@
       "quantity": "355 ml"
     },
     {
-      "id": 74,
+      "id": 67,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "ТераПия",
@@ -555,7 +547,7 @@
       "quantity": "500 ml"
     },
     {
-      "id": 74,
+      "id": 68,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Пловдив Неипа",
@@ -563,7 +555,7 @@
       "quantity": "330 ml"
     },
     {
-      "id": 75,
+      "id": 69,
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Guinness",
@@ -571,7 +563,7 @@
       "quantity": "500 ml"
     },
     {
-      "id": 76,
+      "id": 70,
       "category": "wine",
       "semi-category": "White",
       "name": "Chateau Pesquie, La Paradou, Vermentino,  Rhode Valley |France|",
@@ -579,7 +571,7 @@
       "quantity": "150 ml"
     },
     {
-      "id": 77,
+      "id": 71,
       "category": "wine",
       "semi-category": "White",
       "name": "Chateau Pesquie, La Paradou, Vermentino,  Rhode Valley |France|",
@@ -587,7 +579,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 78,
+      "id": 72,
       "category": "wine",
       "semi-category": "White",
       "name": "Chateau Copsa, Single Vineyard, Chardonnay, Rose Valley |Bulgaria|",
@@ -595,7 +587,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 79,
+      "id": 73,
       "category": "wine",
       "semi-category": "White",
       "name": "Haralambievi, The Chosen One, Sauvignon Blanc, Dunabe Plain |Bulgaria|",
@@ -603,7 +595,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 80,
+      "id": 74,
       "category": "wine",
       "semi-category": "White",
       "name": "Dragomir, Sarva, Dimiyat, Thracian Lowlands |Bulgaria|",
@@ -611,7 +603,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 81,
+      "id": 75,
       "category": "wine",
       "semi-category": "White",
       "name": "Cantina Cormmons, Pinot Grigio, Fruili |Italy|",
@@ -619,7 +611,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 82,
+      "id": 76,
       "category": "wine",
       "semi-category": "White",
       "name": "Giesen Estate, Sauvignon Blanc, Marlborough |New Zealand|",
@@ -627,7 +619,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 83,
+      "id": 77,
       "category": "wine",
       "semi-category": "White",
       "name": "Bratanov, 3 Blend, Chardonnay & Tamianka & Viognier, Sakar |Bulgaria|",
@@ -635,7 +627,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 84,
+      "id": 78,
       "category": "wine",
       "semi-category": "White",
       "name": "La Scolca, Etichetta Bianca, Cortese, Gavi |Italy|",
@@ -643,7 +635,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 85,
+      "id": 79,
       "category": "wine",
       "semi-category": "Rose",
       "name": "Sasha Lichine,Le Poussin rose, Cincault, Rhone Valley |France|",
@@ -651,7 +643,7 @@
       "quantity": "150 ml"
     },
     {
-      "id": 86,
+      "id": 80,
       "category": "wine",
       "semi-category": "Rose",
       "name": "Sasha Lichine,Le Poussin rose, Cincault, Rhone Valley |France|",
@@ -659,7 +651,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 87,
+      "id": 81,
       "category": "wine",
       "semi-category": "Rose",
       "name": "Chateau Copsa, Anjelica, Cabernet Sauvignon, Rose Valley |Bulgaria|",
@@ -667,7 +659,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 88,
+      "id": 82,
       "category": "wine",
       "semi-category": "Rose",
       "name": "Chateau d'Esclans, Whispering Angel, Cotes de Provence |France|",
@@ -675,7 +667,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 89,
+      "id": 83,
       "category": "wine",
       "semi-category": "Rose",
       "name": "Chateau Miraval, Miraval Rose, Cotes de Provence |France|",
@@ -683,7 +675,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 90,
+      "id": 84,
       "category": "wine",
       "semi-category": "Red",
       "name": "Sasha Lichine,Le Coq Rouge, Syrah, Languedoc |France|",
@@ -691,7 +683,7 @@
       "quantity": "150 ml"
     },
     {
-      "id": 91,
+      "id": 85,
       "category": "wine",
       "semi-category": "Red",
       "name": "Sasha Lichine,Le Coq Rouge, Syrah, Languedoc |France|",
@@ -699,7 +691,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 92,
+      "id": 86,
       "category": "wine",
       "semi-category": "Red",
       "name": "Medi Valley, Great Bulgaria, Rubin & Melnik 55 & Mavrud & Gamza, Struma Valley |Bulgaria|",
@@ -707,7 +699,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 93,
+      "id": 87,
       "category": "wine",
       "semi-category": "Red",
       "name": "Zlaten Rozhen, Sansi, Sangiovese & Syrah, Struma Valley |Bulgaria|",
@@ -715,7 +707,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 94,
+      "id": 88,
       "category": "wine",
       "semi-category": "Red",
       "name": "Dragomir, Sarva, Mavrud, Thracian Lowlands |Bulgaria|",
@@ -723,7 +715,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 95,
+      "id": 89,
       "category": "wine",
       "semi-category": "Red",
       "name": "Saint Cosme, Micro Cosme, Grenache & Pinot Noir, Rhone |France|",
@@ -731,7 +723,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 96,
+      "id": 90,
       "category": "wine",
       "semi-category": "Red",
       "name": "Produttori di Manduria, Lirica, Primitivo, Puglia |Italy|",
@@ -739,7 +731,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 97,
+      "id": 91,
       "category": "wine",
       "semi-category": "Red",
       "name": "Bratanov, 3 Blend, Cabernet Franc & Merlot & Rubin, Sakar |Bulgaria|",
@@ -747,7 +739,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 98,
+      "id": 92,
       "category": "wine",
       "semi-category": "Red",
       "name": "Buglioni, Amarone della Valpolicella, Corvina & Rondinella & Corvione, Veneto |Italy|",
@@ -755,7 +747,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 99,
+      "id": 93,
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Sumarroca, Cava 2CV Inalterat, Xarelo Catalonia |Spain|",
@@ -763,7 +755,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 100,
+      "id": 94,
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Sumarroca, Brut Rose Cava, Pinot Noir & Macabeu Catalonia |Spain|",
@@ -771,7 +763,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 101,
+      "id": 95,
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Andreola, Dirupo Prosecco Valdobbiadene Superiore, Glera |Italy|",
@@ -779,7 +771,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 102,
+      "id": 96,
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Loriot Pagel, Carte d'Or,  Pinot Meunier & Chardonnay & Pinot Noir |France|",
@@ -787,7 +779,7 @@
       "quantity": "750 ml"
     },
     {
-      "id": 103,
+      "id": 97,
       "category": "food",
       "semi-category": "Salads",
       "name": "Салата от розов домат, патладжан, крем лабне и магданозен дресинг с пържена тиквичка и червена чушка, крутони с шарена сол, маслини, маринован лук и магданоз |1, 2, 3, 10|",
@@ -795,7 +787,7 @@
       "quantity": "350 g"
     },
     {
-      "id": 104,
+      "id": 98,
       "category": "food",
       "semi-category": "Salads",
       "name": "Интерпретация на чобан салата с домат и краставица в лимоново-балсамов дресинг с катък, червени чушки, маринована сиврия, пресен лук, магданоз, червен лук, бекон и запечено зряло краве сирене |1|",
@@ -803,7 +795,7 @@
       "quantity": "350 g"
     },
     {
-      "id": 105,
+      "id": 99,
       "category": "food",
       "semi-category": "Salads",
       "name": "Листна салата с пикантни скариди в млечен дресинг с пържен равен хляб, чери домати, краставица, магданоз и лук |4, 1, 2|",
@@ -812,7 +804,7 @@
     },
 
     {
-      "id": 106,
+      "id": 100,
       "category": "food",
       "semi-category": "Salads",
       "name": "Свежа салата в ягодов дресинг с козе сирене и ягоди, грилована круша, печена тиква, грозде конфи с рози, мед и ядки |1, 5, 3, 7|",
@@ -820,7 +812,7 @@
       "quantity": "335 g"
     },
     {
-      "id": 107,
+      "id": 101,
       "category": "food",
       "semi-category": "Salads",
       "name": "Салата прованс с бейби спанак, синьо сирене и плодове в орехов пралин дресинг  с маринован перлен лук , едамаме, карамелизиран пекан орех, сладко зелени смокини и медено балсамико |5, 1, 3, 6|",
@@ -828,7 +820,7 @@
       "quantity": "340 g"
     },
     {
-      "id": 108,
+      "id": 102,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Сельодка под шуба с яйце, пушен пипер, масло, маринован жълтък и магданоз |10, 4, 1|",
@@ -836,7 +828,7 @@
       "quantity": "300 g"
     },
     {
-      "id": 109,
+      "id": 103,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Лют айвар с катък и чоризо, сладко кисели краставички, червен лук, магданоз и крустини |1, 6, 7, 2|",
@@ -844,7 +836,7 @@
       "quantity": "290 g"
     },
     {
-      "id": 110,
+      "id": 104,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Дзадзики с червено цвекло и кисели краставички, чесън конфи с подправки, авокадо, копър и крем от печен чесън с авокадо |1, 7, 8|",
@@ -852,7 +844,7 @@
       "quantity": "240 g"
     },
     {
-      "id": 111,
+      "id": 105,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Тирокафтери с маринована люта чушка, пресен лук, чери и грилован квасен хляб |1, 2|",
@@ -860,7 +852,7 @@
       "quantity": "290 g"
     },
     {
-      "id": 112,
+      "id": 106,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Инвултини от патладжан с рикота и зряло козе сирене върху доматен сос с пармезан, ромеско сос и босилек |1|",
@@ -868,7 +860,7 @@
       "quantity": "310 g"
     },
     {
-      "id": 113,
+      "id": 107,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Пуканки от скариди със срирача сос и карамелизиран лайм |10, 4, 2, 7|",
@@ -876,7 +868,7 @@
       "quantity": "230 g"
     },
     {
-      "id": 114,
+      "id": 108,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Калмар медитеранио с маслини, артишок, чери домати, каперси и зелени подправки във винено-маслен сос |4, 1|",
@@ -884,7 +876,7 @@
       "quantity": "310 g"
     },
     {
-      "id": 115,
+      "id": 109,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Телешки тартар във френски стил с жълтък и сол малдон върху мариновани репички гарниран с горчица, пипер меланж и крустини |10, 3, 2|",
@@ -892,7 +884,7 @@
       "quantity": "250 g"
     },
     {
-      "id": 116,
+      "id": 110,
       "category": "food",
       "semi-category": "For sharing",
       "name": "Счупени картофи соте с катък и пикантен млечен сос |1|",
@@ -900,7 +892,7 @@
       "quantity": "300 g"
     },
     {
-      "id": 117,
+      "id": 111,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Свински кралски котлет с грилована царевица, счупени картофи,пикантен бекон и чимичури сос",
@@ -908,7 +900,7 @@
       "quantity": "450 g"
     },
     {
-      "id": 118,
+      "id": 112,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Стек от бавноготвен свински врат с крем от тиква върху маслено картофено пюре, печен сос със синап, карамелизирана целина и печени чери домати |3, 9, 1, 2|",
@@ -916,7 +908,7 @@
       "quantity": "410 g"
     },
     {
-      "id": 119,
+      "id": 113,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Ущипци от телешко и агнешко рагу с карамелизиран бекон и гюбек върху пикантни картофи с млечна салата от зеле и моркови, лютеница, пресен лук стрък и люта чушка |1, 10|",
@@ -924,7 +916,7 @@
       "quantity": "550 g"
     },
     {
-      "id": 120,
+      "id": 114,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Стек от телешко бон филе върху картофено пюре със спанак, сотирани тиквичка, морков и перлен лук завършен със сос от кости с манатарки и уиски |1|",
@@ -932,7 +924,7 @@
       "quantity": "450 g"
     },
     {
-      "id": 121,
+      "id": 115,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Пилешки шницел от бут в панко панировка с шамфъстък, билково масло, медено горчичен дип и салатка с айсберг, рукола, лук и чери домати |2, 5, 3, 10, 1|",
@@ -940,7 +932,7 @@
       "quantity": "450 g"
     },
     {
-      "id": 122,
+      "id": 116,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Мариновани пилешки шишчета върху равен хляб с дзадзики, червен лук, маруля, маслини и домат |1, 2|",
@@ -948,7 +940,7 @@
       "quantity": "420 g"
     },
     {
-      "id": 123,
+      "id": 117,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Стек от сьомга терияки с пържени фъстъци и сусам върху басмати ориз със зеленчуци |4, 8, 7, 5, 1|",
@@ -956,7 +948,7 @@
       "quantity": "420 g"
     },
     {
-      "id": 124,
+      "id": 118,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Маринован октопод на тиган върху паста а ле олио с чили, чесън, каперси и чери завършен с пармезан |4, 2, 1|",
@@ -964,7 +956,7 @@
       "quantity": "280 g"
     },
     {
-      "id": 125,
+      "id": 119,
       "category": "food",
       "semi-category": "Main courses",
       "name": "Стек от целина на тиган с масло и билки върху хумус с червено цвекло, тай къри сос, броколи темпура и басмати ориз със сушени плодове, чесън и билки |9, 1, 2, 10|",
@@ -972,7 +964,7 @@
       "quantity": "425 g"
     },
     {
-      "id": 126,
+      "id": 120,
       "category": "food",
       "semi-category": "Desserts",
       "name": "Баклава чийзкейк с ягоди, шам фъстък и ягодов сос |1, 2, 5|",
@@ -980,7 +972,7 @@
       "quantity": "200 g"
     },
     {
-      "id": 127,
+      "id": 121,
       "category": "food",
       "semi-category": "Desserts",
       "name": "Еклер с яйчен крем, солен карамел и крокан от пуканки с шамфъстък |2, 1, 10, 5, 8|",
@@ -988,7 +980,7 @@
       "quantity": "120 g"
     },
     {
-      "id": 128,
+      "id": 122,
       "category": "food",
       "semi-category": "Desserts",
       "name": "Шоколадова сфера с ядки, шоколадов мус, черешов течен център, ягоди и ганаш с розов пипер |5, 10, 1|",
@@ -996,7 +988,7 @@
       "quantity": "130 g"
     },
     {
-      "id": 129,
+      "id": 123,
       "category": "food",
       "semi-category": "Desserts",
       "name": "Кадаиф рол с ванилов крем, мус от боровинки и сладко от мляко с шамфъстък |1, 5, 10|",
@@ -1004,61 +996,61 @@
       "quantity": "220 g"
     },
     {
-      "id": 130,
+      "id": 124,
       "category": "food",
       "semi-category": "Alergens",
       "name": "1. Мляко и млечни продукти (включително лактоза)"
     },
     {
-      "id": 131,
+      "id": 125,
       "category": "food",
       "semi-category": "Alergens",
       "name": "2. Зърнени култури, съдържащи глутен"
     },
     {
-      "id": 132,
+      "id": 126,
       "category": "food",
       "semi-category": "Alergens",
       "name": "3. Синап и продукти от него"
     },
     {
-      "id": 133,
+      "id": 127,
       "category": "food",
       "semi-category": "Alergens",
       "name": "4. Риба, рибни и морски продукти"
     },
     {
-      "id": 134,
+      "id": 128,
       "category": "food",
       "semi-category": "Alergens",
       "name": "5. Ядки"
     },
     {
-      "id": 135,
+      "id": 129,
       "category": "food",
       "semi-category": "Alergens",
       "name": "6. Соя и соеви продукти"
     },
     {
-      "id": 136,
+      "id": 130,
       "category": "food",
       "semi-category": "Alergens",
       "name": "7. Сулфити"
     },
     {
-      "id": 137,
+      "id": 131,
       "category": "food",
       "semi-category": "Alergens",
       "name": "8. Сусамено семе и продукти от него"
     },
     {
-      "id": 138,
+      "id": 132,
       "category": "food",
       "semi-category": "Alergens",
       "name": "9. Целина и продукти от нея"
     },
     {
-      "id": 139,
+      "id": 133,
       "category": "food",
       "semi-category": "Alergens",
       "name": "10. Яйца и продукти на яйчна основа"
