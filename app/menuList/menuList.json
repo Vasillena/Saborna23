@@ -782,278 +782,254 @@
       "id": 97,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Салата от розов домат, патладжан, крем лабне и магданозен дресинг с пържена тиквичка и червена чушка, крутони с шарена сол, маслини, маринован лук и магданоз |1, 2, 3, 10|",
-      "price": "18.90 BGN",
-      "quantity": "350 g"
+      "name": "Summer Salad |peeled pink tomato, freshly roasted pepper, aged sheep cheese (45 days), charred herb bread, olive soil and parsley dressing| |1, 7, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
     },
     {
       "id": 98,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Интерпретация на чобан салата с домат и краставица в лимоново-балсамов дресинг с катък, червени чушки, маринована сиврия, пресен лук, магданоз, червен лук, бекон и запечено зряло краве сирене |1|",
-      "price": "18.90 BGN",
-      "quantity": "350 g"
+      "name": "Tomatoes with Buffalo “Krokmach” |peeled pink tomato, grilled zucchini, cucumbers, krokmach, olive soil, “Petrohan” sausage, roasted onion and parsley dressing| |7, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
     },
     {
       "id": 99,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Листна салата с пикантни скариди в млечен дресинг с пържен равен хляб, чери домати, краставица, магданоз и лук |4, 1, 2|",
-      "price": "19.90 BGN",
-      "quantity": "300 g"
+      "name": "Leafy Salad with Green Cheese from Cherni Vit Village |mixed leafy greens, cherry tomatoes, caramelized nuts, Elenski but (dry-cured salted and smoked pork ham from the Elena region), grilled peaches and honey dressing| |7, 8, 10|",
+      "price": "22.90 BGN/11.71 €",
+      "quantity": "280 g"
     },
 
     {
       "id": 100,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Свежа салата в ягодов дресинг с козе сирене и ягоди, грилована круша, печена тиква, грозде конфи с рози, мед и ядки |1, 5, 3, 7|",
-      "price": "18.90 BGN",
-      "quantity": "335 g"
+      "name": "Fresh Cheese and Peaches |grilled peaches, mint, cucumbers, fresh white cheese, honey dressing, pine nuts and truffle balsamic reduction| |7, 8, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
     },
     {
       "id": 101,
       "category": "food",
       "semi-category": "Salads",
-      "name": "Салата прованс с бейби спанак, синьо сирене и плодове в орехов пралин дресинг  с маринован перлен лук , едамаме, карамелизиран пекан орех, сладко зелени смокини и медено балсамико |5, 1, 3, 6|",
-      "price": "19.90 BGN",
-      "quantity": "340 g"
+      "name": "Zucchini with Sheep Yogurt Dressing |zucchini spaghetti, sheep yogurt dressing, dill oil, marinated mustard seeds, radishes, fresh white cheese, olive soil and dill chips||7, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
     },
     {
       "id": 102,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Сельодка под шуба с яйце, пушен пипер, масло, маринован жълтък и магданоз |10, 4, 1|",
-      "price": "13.90 BGN",
-      "quantity": "300 g"
+      "name": "Surf & Turf: Octopus with Veal “Sazdarma” |served with lime & horseradish mayo, roasted red pepper cream and spicy salsa| |3, 7, 14|",
+      "price": "34.90 BGN/17.84 €",
+      "quantity": "250 g"
     },
     {
       "id": 103,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Лют айвар с катък и чоризо, сладко кисели краставички, червен лук, магданоз и крустини |1, 6, 7, 2|",
-      "price": "13.90 BGN",
-      "quantity": "290 g"
+      "name": "“Gyubek” Kashkaval in Kadaif with Spicy Farmhouse Katak |served with grilled peaches, green walnut jam, caramelized nuts and chili threads| |1, 3, 7, 8|",
+      "price": "20.90 BGN/10.68 €",
+      "quantity": "250 g"
     },
     {
       "id": 104,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Дзадзики с червено цвекло и кисели краставички, чесън конфи с подправки, авокадо, копър и крем от печен чесън с авокадо |1, 7, 8|",
-      "price": "13.90 BGN",
-      "quantity": "240 g"
+      "name": "Crispy Veal Tongue |horseradish-marinated, served with spicy salsa, lime & horseradish mayo and roasted pepper cream| |1, 3, 7|",
+      "price": "22.90 BGN/11.71 €",
+      "quantity": "250 g"
     },
     {
       "id": 105,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Тирокафтери с маринована люта чушка, пресен лук, чери и грилован квасен хляб |1, 2|",
-      "price": "13.90 BGN",
-      "quantity": "290 g"
+      "name": "Variation of “Chushka Burek” |roasted pepper with fresh green herbs, samardala spice, 45-day aged sheep cheese & cream cheese in crispy crust, served with farmhouse katak with truffle, hot chili jam and mixed greens dressed with truffle sunflower oil| |1, 3, 7, 10|",
+      "price": "19.90 BGN/10.17 €",
+      "quantity": "220 g"
     },
     {
       "id": 106,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Инвултини от патладжан с рикота и зряло козе сирене върху доматен сос с пармезан, ромеско сос и босилек |1|",
-      "price": "15.90 BGN",
-      "quantity": "310 g"
+      "name": "Shrimp Popcorn |with sriracha sauce and caramelized lime| |2, 4, 7, 10|",
+      "price": "23.90 BGN/12.22 €",
+      "quantity": "230 g"
     },
     {
       "id": 107,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Пуканки от скариди със срирача сос и карамелизиран лайм |10, 4, 2, 7|",
-      "price": "23.90 BGN",
-      "quantity": "230 g"
+      "name": "Goose Liver Pâté  |pâté with goose liver from Rakovski, elderflower & lime gel, pistachios, sweet Easter bread (kozunak), spicy white cherry jam and forest fruit espuma| |1, 3, 7, 8|",
+      "price": "31.90 BGN",
+      "quantity": "180 g"
     },
     {
       "id": 108,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Калмар медитеранио с маслини, артишок, чери домати, каперси и зелени подправки във винено-маслен сос |4, 1|",
-      "price": "19.90 BGN",
-      "quantity": "310 g"
+      "name": "Vegan Sarma |chard leaf wrap with wheat, oyster mushrooms, and breadSo paste, served with lyutenitsa espuma, herby gremolata with hazelnuts and smoked paprika| |6, 8|",
+      "price": "16.90 BGN/8.64 €",
+      "quantity": "180 g"
     },
     {
       "id": 109,
       "category": "food",
       "semi-category": "For sharing",
-      "name": "Телешки тартар във френски стил с жълтък и сол малдон върху мариновани репички гарниран с горчица, пипер меланж и крустини |10, 3, 2|",
-      "price": "24.90 BGN",
-      "quantity": "250 g"
+      "name": "Crispy Smashed Potatoes |sautéed with katak and spicy dairy sauce| |1|",
+      "price": "13.90 BGN/7.10 €",
+      "quantity": "300 g"
     },
     {
       "id": 110,
       "category": "food",
-      "semi-category": "For sharing",
-      "name": "Счупени картофи соте с катък и пикантен млечен сос |1|",
-      "price": "13.90 BGN",
-      "quantity": "300 g"
+      "semi-category": "Main courses",
+      "name": "Pork Chop |marinated in fresh herbs, served with potato salad with Petrohan sausage, marinated mustard seeds and pickled onions| |3, 7, 10|",
+      "price": "29.90 BGN/15.28 €",
+      "quantity": "450 g"
     },
     {
       "id": 111,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Свински кралски котлет с грилована царевица, счупени картофи,пикантен бекон и чимичури сос",
-      "price": "27.90 BGN",
-      "quantity": "450 g"
+      "name": "Oyster Mushroom Steak |glazed with BBQ rosehip sauce, served with wheat with spinach, pearl onions, walnuts and lyutenitsa espuma| |6, 8|",
+      "price": "21.90 BGN/11.20 €",
+      "quantity": "330 g"
     },
     {
       "id": 112,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Стек от бавноготвен свински врат с крем от тиква върху маслено картофено пюре, печен сос със синап, карамелизирана целина и печени чери домати |3, 9, 1, 2|",
-      "price": "25.90 BGN",
-      "quantity": "410 g"
+      "name": "Chicken Chop |served with creamy milk corn, buttered peas, potato gratin and wild mushroom sauce| |1, 7, 10|",
+      "price": "25.90 BGN/13.24 €",
+      "quantity": "350 g"
     },
     {
       "id": 113,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Ущипци от телешко и агнешко рагу с карамелизиран бекон и гюбек върху пикантни картофи с млечна салата от зеле и моркови, лютеница, пресен лук стрък и люта чушка |1, 10|",
-      "price": "25.90 BGN",
-      "quantity": "550 g"
+      "name": "Chicken Schnitzel |chicken thigh in panko crust with pistachios, herb butter, honey mustard dip and sautéed potatoes| |1, 2, 3, 5, 10|",
+      "price": "25.90 BGN/13.24 €",
+      "quantity": "450 g"
     },
     {
       "id": 114,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Стек от телешко бон филе върху картофено пюре със спанак, сотирани тиквичка, морков и перлен лук завършен със сос от кости с манатарки и уиски |1|",
-      "price": "44.90 BGN",
-      "quantity": "450 g"
+      "name": "Red Mullet Fillet |served with roasted red pepper cream, potato gratin and buttery lemon mustard sauce| |1, 3, 4, 7, 10|",
+      "price": "29.90 BGN/15.28 €",
+      "quantity": "350 g"
     },
     {
       "id": 115,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Пилешки шницел от бут в панко панировка с шамфъстък, билково масло, медено горчичен дип и салатка с айсберг, рукола, лук и чери домати |2, 5, 3, 10, 1|",
-      "price": "25.90 BGN",
-      "quantity": "450 g"
+      "name": "Grilled Trout Fillet |served with corn cream, chard sarma with wheat, oyster mushrooms, and Breadso paste with a buttery lemon lovage sauce| |3, 6, 7, 10|",
+      "price": "29.90 BGN/15.28 €",
+      "quantity": "350 g"
     },
     {
       "id": 116,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Мариновани пилешки шишчета върху равен хляб с дзадзики, червен лук, маруля, маслини и домат |1, 2|",
-      "price": "23.90 BGN",
-      "quantity": "420 g"
+      "name": "Beef Tenderloin |served with asparagus, potato gratin and pepper sauce| |1, 7, 10|",
+      "price": "49.90 BGN/25.51 €",
+      "quantity": "350 g"
     },
     {
       "id": 117,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Стек от сьомга терияки с пържени фъстъци и сусам върху басмати ориз със зеленчуци |4, 8, 7, 5, 1|",
-      "price": "26.90 BGN",
-      "quantity": "420 g"
+      "name": "Risotto with Green Cheese from Cherni Vit Village |carnaroli rice, grilled peaches, thyme, cream cheese and balsamic reduction| |7, 9|",
+      "price": "24.90 BGN/12.73 €",
+      "quantity": "350 g"
     },
     {
       "id": 118,
       "category": "food",
-      "semi-category": "Main courses",
-      "name": "Маринован октопод на тиган върху паста а ле олио с чили, чесън, каперси и чери завършен с пармезан |4, 2, 1|",
+      "semi-category": "Desserts",
+      "name": "Hive” Dessert |sheep yogurt panna cotta with bee pollen, forest honey, honeycomb, peach gel, honey tuile, carrot chocolate and forest fruit espuma| |1, 3, 7, 8|",
       "price": "34.90 BGN",
       "quantity": "280 g"
     },
     {
       "id": 119,
       "category": "food",
-      "semi-category": "Main courses",
-      "name": "Стек от целина на тиган с масло и билки върху хумус с червено цвекло, тай къри сос, броколи темпура и басмати ориз със сушени плодове, чесън и билки |9, 1, 2, 10|",
-      "price": "18.90 BGN",
-      "quantity": "425 g"
+      "semi-category": "Desserts",
+      "name": "Sweet Salami |with chocolate, pistachios, butter biscuits, served with peach gel, raspberry sorbet and white chocolate ganache infused with chamomile| |1, 3, 7, 8|",
+      "price": "15.90 BGN/8.13 €",
+      "quantity": "140 g"
     },
     {
       "id": 120,
       "category": "food",
       "semi-category": "Desserts",
-      "name": "Баклава чийзкейк с ягоди, шам фъстък и ягодов сос |1, 2, 5|",
-      "price": "12.90 BGN",
+      "name": "Baklava Cheesecake |with strawberries, pistachios and strawberry sauce| |1, 2, 5|",
+      "price": "12.90 BGN/6.59 €",
       "quantity": "200 g"
-    },
-    {
-      "id": 121,
-      "category": "food",
-      "semi-category": "Desserts",
-      "name": "Еклер с яйчен крем, солен карамел и крокан от пуканки с шамфъстък |2, 1, 10, 5, 8|",
-      "price": "12.90 BGN",
-      "quantity": "120 g"
-    },
-    {
-      "id": 122,
-      "category": "food",
-      "semi-category": "Desserts",
-      "name": "Шоколадова сфера с ядки, шоколадов мус, черешов течен център, ягоди и ганаш с розов пипер |5, 10, 1|",
-      "price": "12.90 BGN",
-      "quantity": "130 g"
-    },
-    {
-      "id": 123,
-      "category": "food",
-      "semi-category": "Desserts",
-      "name": "Кадаиф рол с ванилов крем, мус от боровинки и сладко от мляко с шамфъстък |1, 5, 10|",
-      "price": "13.90 BGN",
-      "quantity": "220 g"
     },
     {
       "id": 124,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "1. Мляко и млечни продукти (включително лактоза)"
+      "name": "1. Milk and dairy products (including lactose)"
     },
     {
       "id": 125,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "2. Зърнени култури, съдържащи глутен"
+      "name": "2. Cereals containing gluten"
     },
     {
       "id": 126,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "3. Синап и продукти от него"
+      "name": "3. Mustard and mustard-based products"
     },
     {
       "id": 127,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "4. Риба, рибни и морски продукти"
+      "name": "4. Fish, fish, and seafood products"
     },
     {
       "id": 128,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "5. Ядки"
+      "name": "5. Nuts"
     },
     {
       "id": 129,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "6. Соя и соеви продукти"
+      "name": "6. Soy and soy products"
     },
     {
       "id": 130,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "7. Сулфити"
+      "name": "7. Sulphites"
     },
     {
       "id": 131,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "8. Сусамено семе и продукти от него"
+      "name": "8. Sesame seeds and sesame-based products"
     },
     {
       "id": 132,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "9. Целина и продукти от нея"
+      "name": "9. Celery and celery-based products"
     },
     {
       "id": 133,
       "category": "food",
       "semi-category": "Alergens",
-      "name": "10. Яйца и продукти на яйчна основа"
+      "name": "10. Eggs and egg-based products"
     }
   ]
 }
