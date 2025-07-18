@@ -46,12 +46,13 @@ export default function Gallery(): JSX.Element {
   const [isMobile, setIsMobile] = useState(false);
 
   useLayoutEffect(() => {
-    const checkIsMobile = () => setIsMobile(window.innerWidth < 1024);
+    const checkIsMobile = () => setIsMobile(window.innerWidth < 768);
     checkIsMobile();
     window.addEventListener("resize", checkIsMobile);
     return () => window.removeEventListener("resize", checkIsMobile);
   }, []);
 
+  // Set scroll width
   useLayoutEffect(() => {
     if (scrollRef.current) {
       setScrollRange(scrollRef.current.scrollWidth);
@@ -116,12 +117,12 @@ export default function Gallery(): JSX.Element {
                     className="h-screen w-screen flex items-center justify-center relative"
                     key={item.id}
                   >
-                    <div className="relsative w-full max-w-[1440px] sm:h-full">
+                    <div className="relative w-full max-w-[1440px] h-full">
                       <Image
                         src={item.img}
                         alt={item.title}
                         fill
-                        className="object-cover"
+                        className="object-contain"
                       />
                     </div>
                   </div>
