@@ -14,7 +14,7 @@ export default async function Hero(): Promise<JSX.Element> {
           className={`w-full h-full flex flex-col justify-center items-center`}
           style={{
             background: `url("/hero.webp")`,
-            backgroundSize: "cover",
+            backgroundSize: "100%",
             backgroundRepeat: "no-repeat",
             backgroundPosition: "center center",
           }}
