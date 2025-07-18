@@ -88,7 +88,6 @@ export default function Gallery(): JSX.Element {
   return (
     <>
       {isMobile ? (
-        // Mobile view: vertical scroll
         <section className="w-full">
           {items.map((item) => (
             <div className="relative w-full h-[60vh]" key={item.id}>
@@ -102,7 +101,6 @@ export default function Gallery(): JSX.Element {
           ))}
         </section>
       ) : (
-        // Desktop view: horizontal scroll on vertical scroll
         <>
           <div className="fixed left-0 right-0 will-change-transform">
             <motion.section
