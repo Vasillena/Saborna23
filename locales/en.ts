@@ -22,11 +22,11 @@ export default {
     "text-4":
       "In addition, the restaurant offers a separate, private room with 8 seats, perfect for business meetings, family gatherings, or special occasions.",
     "text-5":
-      "The terrace offers 30 more seats and reveals a picturesque view of Kapana, creating a unique atmosphere for guests.",
+      "The terrace offers 35 more seats and reveals a picturesque view of Kapana, creating a unique atmosphere for guests.",
     "text-6":
-      "The garden, with a capacity of 50 seats, is spacious and ideal for warm evenings, providing a pleasant place to relax and enjoy delicious food.",
+      "The garden, with a capacity of 65 seats, is spacious and ideal for warm evenings, providing a pleasant place to relax and enjoy delicious food.",
     "text-7":
-      "The menu offers a variety of dishes inspired by Balkan cuisine. The food is prepared with attention to detail, combining traditional recipes with modern culinary trends.",
+      "The menu offers a variety of dishes inspired by Bulgarian cuisine. The food is prepared with attention to detail, combining traditional recipes with modern culinary trends.",
     "text-8":
       "The wine list includes carefully selected local and international wines to perfectly complement the dishes.",
     "text-9":

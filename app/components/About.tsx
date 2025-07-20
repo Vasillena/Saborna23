@@ -10,6 +10,7 @@ import decor4 from "@/public/about-5.webp";
 import decor5 from "@/public/about-6.webp";
 import decor6 from "@/public/about-7.webp";
 import decor7 from "@/public/about-8.webp";
+import decor8 from "@/public/about-9.webp";
 import { getI18n } from "@/locales/server";
 
 export default async function About(): Promise<JSX.Element> {
@@ -68,6 +69,9 @@ export default async function About(): Promise<JSX.Element> {
             <Image src={decor3} alt="Decor" width={680} priority />
           </div>
           <p className="text-xl lg:text-2xl">{t("about.text-5")}</p>
+          <div className="w-full">
+            <Image src={decor8} alt="Decor" width={680} priority />
+          </div>
           <p className="text-xl lg:text-2xl">{t("about.text-6")}</p>
           <div className="w-full">
             <Image src={decor4} alt="Decor" width={680} priority />
