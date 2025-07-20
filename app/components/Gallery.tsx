@@ -90,7 +90,7 @@ export default function Gallery(): JSX.Element {
       {isMobile ? (
         <section className="w-full">
           {items.map((item) => (
-            <div className="relative w-full h-[60vh]" key={item.id}>
+            <div className="relative w-full h-[24vh]" key={item.id}>
               <Image
                 src={item.img}
                 alt={item.title}
@@ -111,10 +111,10 @@ export default function Gallery(): JSX.Element {
               <div className="relative flex border-8 border-yellow">
                 {items.map((item) => (
                   <div
-                    className="h-screen w-screen flex items-center justify-center relative"
+                    className="lg:h-screen w-screen flex items-center justify-center relative"
                     key={item.id}
                   >
-                    <div className="relsative w-full max-w-[1440px] sm:h-full">
+                    <div className="relative w-full max-w-[1440px] h-full">
                       <Image
                         src={item.img}
                         alt={item.title}
