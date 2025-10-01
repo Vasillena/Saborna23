@@ -218,7 +218,7 @@ export default function MenuList(): JSX.Element {
                         active={selectedTab === "Sparkling"}
                       />
                       <MenuCard
-                        text1={t("menu.softDrinks")}
+                        text1={t("menu.nonAlcoholic")}
                         onClick={() => setSelectedTab("Non-alcoholic")}
                         active={selectedTab === "Non-alcoholic"}
                       />
@@ -246,8 +246,8 @@ export default function MenuList(): JSX.Element {
                       />
                       <MenuCard
                         text1={t("menu.forSharing")}
-                        onClick={() => setSelectedTab("For sharing")}
-                        active={selectedTab === "For sharing"}
+                        onClick={() => setSelectedTab("Starters")}
+                        active={selectedTab === "Starters"}
                       />
                       <MenuCard
                         text1={t("menu.mainCourses")}
