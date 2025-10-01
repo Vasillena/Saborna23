@@ -224,8 +224,8 @@ export default function MenuList(): JSX.Element {
                       />
                       <MenuCard
                         text1={t("menu.byglass")}
-                        onClick={() => setSelectedTab("Non-Wine by the Glass")}
-                        active={selectedTab === "Non-Wine by the Glass"}
+                        onClick={() => setSelectedTab("Wine by the Glass")}
+                        active={selectedTab === "Wine by the Glass"}
                       />
                     </>
                   )}
