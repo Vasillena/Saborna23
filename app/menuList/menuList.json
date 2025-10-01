@@ -5,7 +5,7 @@
       "category": "drinks",
       "semi-category": "Hot Drinks",
       "name": "Lavazza Coffee",
-      "price": "3.00 BGN",
+      "price": "3.00 BGN/1.53 €",
       "quantity": "60 ml"
     },
     {
@@ -13,7 +13,7 @@
       "category": "drinks",
       "semi-category": "Hot Drinks",
       "name": "Tea Forté for Two",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "300 ml",
       "description": "|Black with Orange & Papaya, Green with Mango & Peach, Herbal Raspberry Nectar|"
     },
@@ -22,7 +22,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Mineral Water / Sparkling Water – White Water",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "330 ml"
     },
     {
@@ -30,7 +30,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Mineral Water / Sparkling Water – White Water",
-      "price": "8.50 BGN",
+      "price": "8.50 BGN/4.35 €",
       "quantity": "750 ml"
     },
     {
@@ -38,7 +38,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Bankya Mineral Water",
-      "price": "3.00 BGN",
+      "price": "3.00 BGN/1.53 €",
       "quantity": "330 ml"
     },
     {
@@ -46,15 +46,15 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Bankya Mineral Water",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "1000 ml"
     },
     {
       "id": 7,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
-      "name": "Coca‑Cola Products",
-      "price": "3.50 BGN",
+      "name": "Coca-Cola Products",
+      "price": "3.50 BGN/1.79 €",
       "quantity": "250 ml"
     },
     {
@@ -62,16 +62,16 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Cappy Juice",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "250 ml",
-      "description": "|Orange, Sour Cherry, Peach|"
+      "description": "|orange, sour cherry, peach|"
     },
     {
       "id": 9,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Three Cents Premium Sparkling Beverage",
-      "price": "6.50 BGN",
+      "price": "6.50 BGN/3.32 €",
       "quantity": "200 ml"
     },
     {
@@ -79,7 +79,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Fever Tree Mediterranean",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "200 ml"
     },
     {
@@ -87,7 +87,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Red Bull Energy Drink",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "250 ml"
     },
     {
@@ -95,25 +95,25 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Lemonade",
-      "price": "9.90 BGN",
+      "price": "9.90 BGN/5.06 €",
       "quantity": "500 ml",
-      "description": "|Passion Fruit , Raspberry|"
+      "description": "|passion fruit , raspberry|"
     },
     {
       "id": 13,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Lemonade",
-      "price": "18.90 BGN",
+      "price": "18.90 BGN/9.66 €",
       "quantity": "1000 ml",
-      "description": "|Passion Fruit , Raspberry|"
+      "description": "|passion fruit , raspberry|"
     },
     {
       "id": 14,
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Iced Tea Forté for Two",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "300 ml",
       "description": "|Black with Orange & Papaya, Green with Mango & Peach, Herbal Raspberry Nectar|"
     },
@@ -122,7 +122,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Raspberry Sour",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Raspberry Rakia, raspberry syrup, lemon, cucumber, vegan foamer|"
     },
@@ -131,16 +131,16 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Hendricks Spritz",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
-      "description": "|Hendrick’s Orbium gin, orange liqueur, Prosecco|"
+      "description": "|Hendrick’s Oasium gin, orange liqueur, Prosecco|"
     },
     {
       "id": 17,
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Pink Spritz",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Strawberry vodka, sweet vermouth, rhubarb bitter, Fever-Tree tonic|"
     },
@@ -149,7 +149,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Paloma",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Milagro tequila, lime, Three Cents grapefruit soda| "
     },
@@ -158,7 +158,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Virgin G&T",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Flure Raspberry, mint, fresh raspberries, Fever-Tree tonic|"
     },
@@ -167,7 +167,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Grant’s Triple Wood 8YO",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -175,7 +175,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Tullamore D.E.W  Х.О.",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -183,7 +183,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Wild Turkey 81",
-      "price": "9.00 BGN",
+      "price": "9.00 BGN/4.60 €",
       "quantity": "50 ml"
     },
     {
@@ -191,7 +191,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Jack daniels",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -199,7 +199,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Monkey Shoulder",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -207,7 +207,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 12YO",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -215,7 +215,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 15YO",
-      "price": "20.00 BGN",
+      "price": "20.00 BGN/10.23 €",
       "quantity": "50 ml"
     },
     {
@@ -223,7 +223,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 18YO",
-      "price": "30.00 BGN",
+      "price": "30.00 BGN/15.34 €",
       "quantity": "50 ml"
     },
     {
@@ -231,7 +231,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "JJ Whitley",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "50 ml"
     },
     {
@@ -239,7 +239,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Reyka",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -247,7 +247,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Beluga Noble",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -255,7 +255,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "JJ Whitley London Dry/Pink",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "50 ml"
     },
     {
@@ -263,7 +263,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Votanikon",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -271,7 +271,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s",
-      "price": "13.00 BGN",
+      "price": "13.00 BGN/6.65 €",
       "quantity": "50 ml"
     },
     {
@@ -279,7 +279,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s Oasium",
-      "price": "14.00 BGN",
+      "price": "14.00 BGN/7.16 €",
       "quantity": "50 ml"
     },
     {
@@ -287,7 +287,7 @@
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Metaxa 7*",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -295,7 +295,7 @@
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Hennessy VS",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -303,7 +303,7 @@
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Angostura Reserva",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "50 ml"
     },
     {
@@ -311,7 +311,7 @@
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Sailor Jerry",
-      "price": "9.00 BGN",
+      "price": "9.00 BGN/4.60 €",
       "quantity": "50 ml"
     },
     {
@@ -319,7 +319,7 @@
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro silver",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "25 ml"
     },
     {
@@ -327,7 +327,7 @@
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro reposado",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "25 ml"
     },
     {
@@ -335,7 +335,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Rubayat 15y",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -343,7 +343,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Alambik Muscat",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -351,7 +351,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Tabiet Grape",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -359,7 +359,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Tabiet Plum",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -367,7 +367,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Tabiet Pear",
-      "price": "8.50 BGN",
+      "price": "8.50 BGN/4.35 €",
       "quantity": "50 ml"
     },
     {
@@ -375,7 +375,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Tabiet Quince",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -383,7 +383,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Trivunova Premium Pear",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -391,7 +391,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Trivunova Premium Quince",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -399,7 +399,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Filipov Raspberry",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -407,23 +407,23 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Beylarbey Gyubek",
-      "price": "40.00 BGN",
+      "price": "40.00 BGN/20.45 €",
       "quantity": "200 ml"
     },
     {
       "id": 51,
       "category": "drinks",
       "semi-category": "Anise",
-      "name": "Ouzo Pilavas",
-      "price": "7.50 BGN",
+      "name": "Ouzo Pilavas",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
       "id": 52,
       "category": "drinks",
       "semi-category": "Anise",
-      "name": "Ouzo Pilavas",
-      "price": "25.00 BGN",
+      "name": "Ouzo Pilavas",
+      "price": "25.00 BGN/12.78 €",
       "quantity": "200 ml"
     },
     {
@@ -431,7 +431,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Ouzo Adolo",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -439,7 +439,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Pernod",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -447,7 +447,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Limoncino Bottega",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -455,7 +455,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Branca Menta",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -463,7 +463,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Jagermeister",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -471,7 +471,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Campari",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -479,7 +479,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Baileys",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -487,7 +487,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Skinos Mastiha",
-      "price": "5.00 BGN",
+      "price": "5.00 BGN/2.56 €",
       "quantity": "25 ml"
     },
     {
@@ -495,7 +495,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Stella Artois Draft",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -503,7 +503,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Stella Artois Draft",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "500 ml"
     },
     {
@@ -511,7 +511,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Kamenitza",
-      "price": "5.50 BGN",
+      "price": "5.50 BGN/2.81 €",
       "quantity": "330 ml"
     },
     {
@@ -519,7 +519,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Stella Artois",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -527,7 +527,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Madri",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -535,7 +535,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Corona",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "355 ml"
     },
     {
@@ -543,7 +543,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Terapia Craft Beer",
-      "price": "11.00 BGN",
+      "price": "11.00 BGN/5.62 €",
       "quantity": "500 ml"
     },
     {
@@ -551,7 +551,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Plovdiv NEIPA Craft Beer",
-      "price": "11.00 BGN",
+      "price": "11.00 BGN/5.62 €",
       "quantity": "330 ml"
     },
     {
@@ -559,7 +559,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Guinness",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "500 ml"
     },
     {

@@ -5,7 +5,7 @@
       "category": "drinks",
       "semi-category": "Hot Drinks",
       "name": "Кафе Lavazza",
-      "price": "3.00 BGN",
+      "price": "3.00 BGN/1.53 €",
       "quantity": "60 ml"
     },
     {
@@ -13,7 +13,7 @@
       "category": "drinks",
       "semi-category": "Hot Drinks",
       "name": "Чай Tea Forte за двама",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "300 ml",
       "description": "|Черен с портокал и папая, Зелен  с манго и праскова, Билков малинов нектар|"
     },
@@ -22,7 +22,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Минерална/Газирана вода White Water",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "330 ml"
     },
     {
@@ -30,7 +30,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Минерална/Газирана вода White Water",
-      "price": "8.50 BGN",
+      "price": "8.50 BGN/4.35 €",
       "quantity": "750 ml"
     },
     {
@@ -38,7 +38,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Минерална вода Банкя",
-      "price": "3.00 BGN",
+      "price": "3.00 BGN/1.53 €",
       "quantity": "330 ml"
     },
     {
@@ -46,7 +46,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Минерална вода Банкя",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "1000 ml"
     },
     {
@@ -54,7 +54,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Продукти Кока-Кола",
-      "price": "3.50 BGN",
+      "price": "3.50 BGN/1.79 €",
       "quantity": "250 ml"
     },
     {
@@ -62,7 +62,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Сок Cappy",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "250 ml",
       "description": "|портокал, вишна, праскова|"
     },
@@ -71,7 +71,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Премиум газирана напитка Three Cents",
-      "price": "6.50 BGN",
+      "price": "6.50 BGN/3.32 €",
       "quantity": "200 ml"
     },
     {
@@ -79,7 +79,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Fever Tree Mediterranean",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "200 ml"
     },
     {
@@ -87,7 +87,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Енергийна напитка Redbull",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "250 ml"
     },
     {
@@ -95,7 +95,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Лимонада",
-      "price": "9.90 BGN",
+      "price": "9.90 BGN/5.06 €",
       "quantity": "500 ml",
       "description": "|маракуя, малина|"
     },
@@ -104,7 +104,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Лимонада",
-      "price": "18.90 BGN",
+      "price": "18.90 BGN/9.66 €",
       "quantity": "1000 ml",
       "description": "|маракуя, малина|"
     },
@@ -113,7 +113,7 @@
       "category": "drinks",
       "semi-category": "Non-alcoholic Drinks",
       "name": "Студен чай  Tea Forte за двама",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "300 ml",
       "description": "|Черен с портокал и папая, Зелен  с манго и праскова, Билков малинов нектар|"
     },
@@ -122,7 +122,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Raspberry Sour",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Малинова ракия, сироп малина, лимон, краставица, веган белтък|"
     },
@@ -131,7 +131,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Hendricks Spritz",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|джин Hendricks Oasium, портокалов ликьор, просеко|"
     },
@@ -140,7 +140,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Pink Spritz",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Ягодова водка, сладък вермут, битер ревен, Fever Tree тоник|"
     },
@@ -149,7 +149,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Paloma",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Текила Milagro, лайм, Three Cent грейпфрут сода|"
     },
@@ -158,7 +158,7 @@
       "category": "drinks",
       "semi-category": "Mixed Drinks",
       "name": "Virgin G&T",
-      "price": "18.00 BGN",
+      "price": "18.00 BGN/9.20 €",
       "quantity": "200 ml",
       "description": "|Flure малина, мента, малини, Fever Tree тоник|"
     },
@@ -167,7 +167,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Grant’s Triple Wood 8YO",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -175,7 +175,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Tullamore D.E.W  Х.О.",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -183,7 +183,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Wild Turkey 81",
-      "price": "9.00 BGN",
+      "price": "9.00 BGN/4.60 €",
       "quantity": "50 ml"
     },
     {
@@ -191,7 +191,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Jack daniels",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -199,7 +199,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Monkey Shoulder",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -207,7 +207,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 12YO",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -215,7 +215,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 15YO",
-      "price": "20.00 BGN",
+      "price": "20.00 BGN/10.23 €",
       "quantity": "50 ml"
     },
     {
@@ -223,7 +223,7 @@
       "category": "drinks",
       "semi-category": "Whiskey",
       "name": "Glenfiddich 18YO",
-      "price": "30.00 BGN",
+      "price": "30.00 BGN/15.34 €",
       "quantity": "50 ml"
     },
     {
@@ -231,7 +231,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "JJ Whitley",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "50 ml"
     },
     {
@@ -239,7 +239,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Reyka",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -247,7 +247,7 @@
       "category": "drinks",
       "semi-category": "Vodka",
       "name": "Beluga Noble",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -255,7 +255,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "JJ Whitley London Dry/Pink",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "50 ml"
     },
     {
@@ -263,7 +263,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Votanikon",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -271,7 +271,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s",
-      "price": "13.00 BGN",
+      "price": "13.00 BGN/6.65 €",
       "quantity": "50 ml"
     },
     {
@@ -279,7 +279,7 @@
       "category": "drinks",
       "semi-category": "Gin",
       "name": "Hendrick’s Oasium",
-      "price": "14.00 BGN",
+      "price": "14.00 BGN/7.16 €",
       "quantity": "50 ml"
     },
     {
@@ -287,7 +287,7 @@
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Metaxa 7*",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -295,7 +295,7 @@
       "category": "drinks",
       "semi-category": "Cognac",
       "name": "Hennessy VS",
-      "price": "15.00 BGN",
+      "price": "15.00 BGN/7.67 €",
       "quantity": "50 ml"
     },
     {
@@ -303,7 +303,7 @@
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Angostura Reserva",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "50 ml"
     },
     {
@@ -311,7 +311,7 @@
       "category": "drinks",
       "semi-category": "Rum",
       "name": "Sailor Jerry",
-      "price": "9.00 BGN",
+      "price": "9.00 BGN/4.60 €",
       "quantity": "50 ml"
     },
     {
@@ -319,7 +319,7 @@
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro silver",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "25 ml"
     },
     {
@@ -327,7 +327,7 @@
       "category": "drinks",
       "semi-category": "Tequila",
       "name": "Milagro reposado",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "25 ml"
     },
     {
@@ -335,7 +335,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Рубаят 15г",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -343,7 +343,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Аламбик мускат",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -351,7 +351,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Гроздова",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -359,7 +359,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Сливова",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -367,7 +367,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Крушова",
-      "price": "8.50 BGN",
+      "price": "8.50 BGN/4.35 €",
       "quantity": "50 ml"
     },
     {
@@ -375,7 +375,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Табиет Дюлева",
-      "price": "10.00 BGN",
+      "price": "10.00 BGN/5.11 €",
       "quantity": "50 ml"
     },
     {
@@ -383,7 +383,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Тривунова Крушова Премиум",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -391,7 +391,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Тривунова Дюлева Премиум",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -399,7 +399,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Филипов Малинова",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "50 ml"
     },
     {
@@ -407,7 +407,7 @@
       "category": "drinks",
       "semi-category": "Rakia",
       "name": "Бейлярбей Гюбек",
-      "price": "40.00 BGN",
+      "price": "40.00 BGN/20.45 €",
       "quantity": "200 ml"
     },
     {
@@ -415,7 +415,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Pilavas",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -423,7 +423,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Pilavas",
-      "price": "25.00 BGN",
+      "price": "25.00 BGN/12.78 €",
       "quantity": "200 ml"
     },
     {
@@ -431,7 +431,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Узо Adolo",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -439,7 +439,7 @@
       "category": "drinks",
       "semi-category": "Anise",
       "name": "Pernod",
-      "price": "7.50 BGN",
+      "price": "7.50 BGN/3.83 €",
       "quantity": "50 ml"
     },
     {
@@ -447,7 +447,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Limoncino Bottega",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -455,7 +455,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Branca Menta",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -463,7 +463,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Jagermeister",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -471,7 +471,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Campari",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -479,7 +479,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Baileys",
-      "price": "4.00 BGN",
+      "price": "4.00 BGN/2.05 €",
       "quantity": "25 ml"
     },
     {
@@ -487,7 +487,7 @@
       "category": "drinks",
       "semi-category": "Liqueurs",
       "name": "Skinos Mastiha",
-      "price": "5.00 BGN",
+      "price": "5.00 BGN/2.56 €",
       "quantity": "25 ml"
     },
     {
@@ -495,7 +495,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Наливна Stella Artois",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -503,7 +503,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Наливна Stella Artois",
-      "price": "7.00 BGN",
+      "price": "7.00 BGN/3.58 €",
       "quantity": "500 ml"
     },
     {
@@ -511,7 +511,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Каменица",
-      "price": "5.50 BGN",
+      "price": "5.50 BGN/2.81 €",
       "quantity": "330 ml"
     },
     {
@@ -519,7 +519,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Stella Artois",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -527,7 +527,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Madri",
-      "price": "6.00 BGN",
+      "price": "6.00 BGN/3.07 €",
       "quantity": "330 ml"
     },
     {
@@ -535,7 +535,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Corona",
-      "price": "8.00 BGN",
+      "price": "8.00 BGN/4.09 €",
       "quantity": "355 ml"
     },
     {
@@ -543,7 +543,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "ТераПия",
-      "price": "11.00 BGN",
+      "price": "11.00 BGN/5.62 €",
       "quantity": "500 ml"
     },
     {
@@ -551,7 +551,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Пловдив Неипа",
-      "price": "11.00 BGN",
+      "price": "11.00 BGN/5.62 €",
       "quantity": "330 ml"
     },
     {
@@ -559,7 +559,7 @@
       "category": "drinks",
       "semi-category": "Beer",
       "name": "Guinness",
-      "price": "12.00 BGN",
+      "price": "12.00 BGN/6.14 €",
       "quantity": "500 ml"
     },
     {
