@@ -62,6 +62,7 @@ export default {
     rose: "Rose",
     red: "Red",
     sparkling: "Sparkling",
+    byglass: "Wine by the Glass",
     salads: "Salads",
     forSharing: "For Sharing",
     mainCourses: "Main Courses",

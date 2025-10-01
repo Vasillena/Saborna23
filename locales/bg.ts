@@ -60,6 +60,7 @@ export default {
     rose: "Розе",
     red: "Червено",
     sparkling: "Пенливо",
+    byglass: "Вино на чаша",
     salads: "Салати",
     forSharing: "За споделяне",
     mainCourses: "Основни ястия",
