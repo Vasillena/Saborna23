@@ -217,6 +217,16 @@ export default function MenuList(): JSX.Element {
                         onClick={() => setSelectedTab("Sparkling")}
                         active={selectedTab === "Sparkling"}
                       />
+                      <MenuCard
+                        text1={t("menu.non-alcoholic")}
+                        onClick={() => setSelectedTab("Non-alcoholic")}
+                        active={selectedTab === "Non-alcoholic"}
+                      />
+                      <MenuCard
+                        text1={t("menu.wine-by-the-glass")}
+                        onClick={() => setSelectedTab("Non-Wine by the Glass")}
+                        active={selectedTab === "Non-Wine by the Glass"}
+                      />
                     </>
                   )}
                   {category === "food" && (
