@@ -16,7 +16,7 @@ export default {
     "text-1":
       "The path to delicious food is paved with cobblestones. With its aristocratic charm, 'Saborna 23' welcomes you majestically, ready to impress with its cuisine and the feeling of 'your special place.'",
     "text-2":
-      "Restaurant 'Saborna 23' is located in the heart of Plovdiv's Old Town, housed in a beautiful Bulgarian Revival-style building that blends historical heritage with modern comfort.",
+      "Restaurant 'Saborna 23' is located in the heart of Plovdiv's Old Town, housed in a beautiful Bulgarian Revival-style building* that blends historical heritage with modern comfort.",
     "text-3":
       "The interior creates an elegant and relaxing atmosphere, perfect for family gatherings and romantic dinners alike. The indoor area of 'Saborna 23' is spread across two floors with a total capacity of 70 seats, combining comfort and sophistication.",
     "text-4":
@@ -31,6 +31,8 @@ export default {
       "The wine list includes carefully selected local and international wines to perfectly complement the dishes.",
     "text-9":
       "The ambiance is distinguished by cozy details and a high level of service, making every visit unforgettable.",
+    "text-10":
+      "The House of Dr. Rashko Petrov – A traditional Plovdiv house on “Saborna” Street, purchased by the merchant Salcho from Georgi Kazasin, the son of Grandfather Toma, in the mid-19th century. Dr. Rashko Petrov moved into this house after his marriage in 1864 to Salcho’s daughter, Haritina. He studied at the Plovdiv Eparchial Classical School “Sts. Cyril and Methodius” under Nayden Gerov. He graduated with distinction in medicine from Vienna, participated in Rakovski’s First Bulgarian Legion in Belgrade, and was a member of the Provisional Bulgarian Government. After settling in Plovdiv, he began practicing medicine, using a microscope in his laboratory and establishing one of the city’s first pharmacies. He supported revolutionary activists, sending and receiving letters to and from secret committees in the region. He was a close friend of Vasil Levski, who often stayed at his home when visiting the city. After the Liberation, this house became the residence of the Temporary Russian Administration, headed by the Imperial Commissioner to Bulgaria, Prince Alexander Dondukov-Korsakov (from May 20 to October 10, 1878).",
   },
 
   contacts: {

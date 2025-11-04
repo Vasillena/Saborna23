@@ -85,6 +85,7 @@ export default async function About(): Promise<JSX.Element> {
             <Image src={decor6} alt="Decor" width={680} priority />
           </div>
           <p className="text-xl lg:text-2xl">{t("about.text-9")}</p>
+          <p className="text-xl lg:text-2xl">{t("about.text-10")}</p>
         </div>
       </section>
     </>
