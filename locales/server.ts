@@ -8,8 +8,8 @@ export const { getI18n, getScopedI18n, getStaticParams, getCurrentLocale } =
       bg: () => import("./bg"),
     },
     {
-      // Uncomment to set fallback locale
       fallbackLocale: bg,
     }
   );
-//
+
+export { setStaticParamsLocale } from "next-international/server";

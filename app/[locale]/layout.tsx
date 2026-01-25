@@ -6,13 +6,16 @@ import Navbar from "../components/Navbar";
 import Provider from "./provider";
 import { ReactNode } from "react";
 import logo from "@/public/logo.webp";
+import { setStaticParamsLocale } from "next-international/server";
 
 export async function generateMetadata({
   params,
 }: {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+
+  setStaticParamsLocale(locale);
 
   let title, description, keywords;
 
@@ -92,14 +95,14 @@ export default async function RootLayout({
   params,
 }: {
   children: ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
 
   return (
     <html lang={locale}>
       <body className={`${MazzardLRegular.className} antialiased`}>
-        <Provider locale={Promise.resolve({ locale })}>
+        <Provider locale={locale}>
           <div className="hidden absolute top-8 w-full md:flex justify-center items-center z-50">
             <div className="w-[160px] xl:w-[200px]">
               <Image

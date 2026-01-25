@@ -1,16 +1,16 @@
+"use client";
+
 import { I18nProviderClient } from "../../locales/client";
 import { ReactNode } from "react";
 
 type ProviderProps = {
-  locale: Promise<{ locale: string }>;
+  locale: string;
   children: ReactNode;
 };
 
-export default async function Provider({ locale, children }: ProviderProps) {
-  const { locale: resolvedLocale } = await locale;
-
+export default function Provider({ locale, children }: ProviderProps) {
   return (
-    <I18nProviderClient locale={resolvedLocale} fallback={<p>Loading...</p>}>
+    <I18nProviderClient locale={locale} fallback={<p>Loading...</p>}>
       {children}
     </I18nProviderClient>
   );
