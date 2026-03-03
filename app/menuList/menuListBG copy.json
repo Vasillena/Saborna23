@@ -1,0 +1,1275 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "category": "drinks",
+      "semi-category": "Hot Drinks",
+      "name": "Кафе Lavazza",
+      "price": "3.00 BGN/1.53 €",
+      "quantity": "60 ml"
+    },
+    {
+      "id": 2,
+      "category": "drinks",
+      "semi-category": "Hot Drinks",
+      "name": "Чай Tea Forte за двама",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "300 ml",
+      "description": "|Черен с портокал и папая, Зелен  с манго и праскова, Билков малинов нектар|"
+    },
+    {
+      "id": 3,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Минерална/Газирана вода White Water",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 4,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Минерална/Газирана вода White Water",
+      "price": "8.50 BGN/4.35 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 5,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Минерална вода Банкя",
+      "price": "3.00 BGN/1.53 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 6,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Минерална вода Банкя",
+      "price": "7.00 BGN/3.58 €",
+      "quantity": "1000 ml"
+    },
+    {
+      "id": 7,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Продукти Кока-Кола",
+      "price": "3.50 BGN/1.79 €",
+      "quantity": "250 ml"
+    },
+    {
+      "id": 8,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Сок Cappy",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "250 ml",
+      "description": "|портокал, вишна, праскова|"
+    },
+    {
+      "id": 9,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Премиум газирана напитка Three Cents",
+      "price": "6.50 BGN/3.32 €",
+      "quantity": "200 ml"
+    },
+    {
+      "id": 10,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Fever Tree Mediterranean",
+      "price": "7.00 BGN/3.58 €",
+      "quantity": "200 ml"
+    },
+    {
+      "id": 11,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Енергийна напитка Redbull",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "250 ml"
+    },
+    {
+      "id": 12,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Лимонада",
+      "price": "9.90 BGN/5.06 €",
+      "quantity": "500 ml",
+      "description": "|маракуя, малина|"
+    },
+    {
+      "id": 13,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Лимонада",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "1000 ml",
+      "description": "|маракуя, малина|"
+    },
+    {
+      "id": 14,
+      "category": "drinks",
+      "semi-category": "Non-alcoholic Drinks",
+      "name": "Студен чай  Tea Forte за двама",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "300 ml",
+      "description": "|Черен с портокал и папая, Зелен  с манго и праскова, Билков малинов нектар|"
+    },
+    {
+      "id": 15,
+      "category": "drinks",
+      "semi-category": "Mixed Drinks",
+      "name": "Raspberry Sour",
+      "price": "18.00 BGN/9.20 €",
+      "quantity": "200 ml",
+      "description": "|Малинова ракия, сироп малина, лимон, краставица, веган белтък|"
+    },
+    {
+      "id": 16,
+      "category": "drinks",
+      "semi-category": "Mixed Drinks",
+      "name": "Hendricks Spritz",
+      "price": "18.00 BGN/9.20 €",
+      "quantity": "200 ml",
+      "description": "|джин Hendricks Oasium, портокалов ликьор, просеко|"
+    },
+    {
+      "id": 17,
+      "category": "drinks",
+      "semi-category": "Mixed Drinks",
+      "name": "Pink Spritz",
+      "price": "18.00 BGN/9.20 €",
+      "quantity": "200 ml",
+      "description": "|Ягодова водка, сладък вермут, битер ревен, Fever Tree тоник|"
+    },
+    {
+      "id": 18,
+      "category": "drinks",
+      "semi-category": "Mixed Drinks",
+      "name": "Paloma",
+      "price": "18.00 BGN/9.20 €",
+      "quantity": "200 ml",
+      "description": "|Текила Milagro, лайм, Three Cent грейпфрут сода|"
+    },
+    {
+      "id": 19,
+      "category": "drinks",
+      "semi-category": "Mixed Drinks",
+      "name": "Virgin G&T",
+      "price": "18.00 BGN/9.20 €",
+      "quantity": "200 ml",
+      "description": "|Flure малина, мента, малини, Fever Tree тоник|"
+    },
+    {
+      "id": 20,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Grant’s Triple Wood 8YO",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 21,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Tullamore D.E.W  Х.О.",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 22,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Wild Turkey 81",
+      "price": "9.00 BGN/4.60 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 23,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Jack daniels",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 24,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Monkey Shoulder",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 25,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Glenfiddich 12YO",
+      "price": "15.00 BGN/7.67 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 26,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Glenfiddich 15YO",
+      "price": "20.00 BGN/10.23 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 27,
+      "category": "drinks",
+      "semi-category": "Whiskey",
+      "name": "Glenfiddich 18YO",
+      "price": "30.00 BGN/15.34 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 28,
+      "category": "drinks",
+      "semi-category": "Vodka",
+      "name": "JJ Whitley",
+      "price": "8.00 BGN/4.09 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 29,
+      "category": "drinks",
+      "semi-category": "Vodka",
+      "name": "Reyka",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 30,
+      "category": "drinks",
+      "semi-category": "Vodka",
+      "name": "Beluga Noble",
+      "price": "15.00 BGN/7.67 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 31,
+      "category": "drinks",
+      "semi-category": "Gin",
+      "name": "JJ Whitley London Dry/Pink",
+      "price": "7.00 BGN/3.58 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 32,
+      "category": "drinks",
+      "semi-category": "Gin",
+      "name": "Votanikon",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 33,
+      "category": "drinks",
+      "semi-category": "Gin",
+      "name": "Hendrick’s",
+      "price": "13.00 BGN/6.65 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 34,
+      "category": "drinks",
+      "semi-category": "Gin",
+      "name": "Hendrick’s Oasium",
+      "price": "14.00 BGN/7.16 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 35,
+      "category": "drinks",
+      "semi-category": "Cognac",
+      "name": "Metaxa 7*",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 36,
+      "category": "drinks",
+      "semi-category": "Cognac",
+      "name": "Hennessy VS",
+      "price": "15.00 BGN/7.67 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 37,
+      "category": "drinks",
+      "semi-category": "Rum",
+      "name": "Angostura Reserva",
+      "price": "8.00 BGN/4.09 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 38,
+      "category": "drinks",
+      "semi-category": "Rum",
+      "name": "Sailor Jerry",
+      "price": "9.00 BGN/4.60 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 39,
+      "category": "drinks",
+      "semi-category": "Tequila",
+      "name": "Milagro silver",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 40,
+      "category": "drinks",
+      "semi-category": "Tequila",
+      "name": "Milagro reposado",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 41,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Рубаят 15г",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 42,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Аламбик мускат",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 43,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Табиет Гроздова",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 44,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Табиет Сливова",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 45,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Табиет Крушова",
+      "price": "8.50 BGN/4.35 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 46,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Табиет Дюлева",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 47,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Тривунова Крушова Премиум",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 48,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Тривунова Дюлева Премиум",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 49,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Филипов Малинова",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 50,
+      "category": "drinks",
+      "semi-category": "Rakia",
+      "name": "Бейлярбей Гюбек",
+      "price": "40.00 BGN/20.45 €",
+      "quantity": "200 ml"
+    },
+    {
+      "id": 51,
+      "category": "drinks",
+      "semi-category": "Anise",
+      "name": "Узо Pilavas",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 52,
+      "category": "drinks",
+      "semi-category": "Anise",
+      "name": "Узо Pilavas",
+      "price": "25.00 BGN/12.78 €",
+      "quantity": "200 ml"
+    },
+    {
+      "id": 53,
+      "category": "drinks",
+      "semi-category": "Anise",
+      "name": "Узо Adolo",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 54,
+      "category": "drinks",
+      "semi-category": "Anise",
+      "name": "Pernod",
+      "price": "7.50 BGN/3.83 €",
+      "quantity": "50 ml"
+    },
+    {
+      "id": 55,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Limoncino Bottega",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 56,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Branca Menta",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 57,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Jagermeister",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 58,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Campari",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 59,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Baileys",
+      "price": "4.00 BGN/2.05 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 60,
+      "category": "drinks",
+      "semi-category": "Liqueurs",
+      "name": "Skinos Mastiha",
+      "price": "5.00 BGN/2.56 €",
+      "quantity": "25 ml"
+    },
+    {
+      "id": 61,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Наливна Stella Artois",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 62,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Наливна Stella Artois",
+      "price": "7.00 BGN/3.58 €",
+      "quantity": "500 ml"
+    },
+    {
+      "id": 63,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Каменица",
+      "price": "5.50 BGN/2.81 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 64,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Stella Artois",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 65,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Madri",
+      "price": "6.00 BGN/3.07 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 66,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Corona",
+      "price": "8.00 BGN/4.09 €",
+      "quantity": "355 ml"
+    },
+    {
+      "id": 67,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "ТераПия",
+      "price": "11.00 BGN/5.62 €",
+      "quantity": "500 ml"
+    },
+    {
+      "id": 68,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Пловдив Неипа",
+      "price": "11.00 BGN/5.62 €",
+      "quantity": "330 ml"
+    },
+    {
+      "id": 69,
+      "category": "drinks",
+      "semi-category": "Beer",
+      "name": "Guinness",
+      "price": "12.00 BGN/6.14 €",
+      "quantity": "500 ml"
+    },
+    {
+      "id": 70,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Chateau Copsa, Single Vineyard Chardonnay, Rose Valley |Bulgaria|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 71,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Haralambievi, The Chosen One Sauvignon Blanc, Danube Plain |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 72,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Zaara Estate, Dogma Tamianka, Sakar |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 73,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Kapatovo, Sauvignon Blanc & Viognier, Struma Valley |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 74,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Better Half, Premium Sauvignon Blanc, Thracian Lowlands |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 75,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Bratanov, 3 Blend, Chardonnay & Tamianka & Viognier, Sakar |Bulgaria|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 76,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Idi Di Marzo, Oro del Mare Pecorino, Abruzzo |Italy|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 77,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Cantina Cormòns, Pinot Grigio, Friuli |Italy|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 78,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Villa Antinori, Bianco, Garganega & Pinot Grigio & Pinot Blanc, Tuscany |Italy|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 79,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "La Scolca, Etichetta Bianca, Cortese, Gavi |Italy|",
+      "price": "75.00 BGN/38.35 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 80,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Ottella, Lugana, Turbiana, Lombardy |Italy|",
+      "price": "75.00 BGN/38.35 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 81,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Andrian, Floreado, Sauvignon Blanc, Alto Adige |Italy|",
+      "price": "80.00 BGN/40.91 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 82,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Château Pesquié, La Paradou Vermentino, Rhône Valley |France|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 83,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Laroche, Mas La Chevalière Sauvignon Blanc, Languedoc |France|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 84,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Michel Paquet, Mâcon-Villages Chardonnay, Burgundy |France|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 85,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Pascal Jolivet, Attitude, Sauvignon Blanc, Loire Valley |France|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 86,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Bernard Defaix, Chablis, Chardonnay, Burgundy |France|",
+      "price": "100.00 BGN/51.13 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 87,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Gérard Boulay, Sancerre, Sauvignon Blanc, Loire Valley |France|",
+      "price": "120.00 BGN/61.36 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 88,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Laroche, Chablis Grand Cru, Chardonnay, Burgundy |France|",
+      "price": "270.00 BGN/138.07 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 89,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Pernot-Belicard Puligny-Montrachet, Chardonnay, Burgundy |France|",
+      "price": "260.00 BGN/132.93 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 90,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Misty Cove, Sauvignon Blanc, Marlborough |New Zealand|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 91,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Giesen Estate, Sauvignon Blanc, Marlborough |New Zealand|",
+      "price": "65.00 BGN/33.23 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 92,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Torres, Viña Esmeralda, Moscatel & Gewürztraminer, Catalunya |Spain|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 93,
+      "category": "wine",
+      "semi-category": "White",
+      "name": "Prinz von Hessen, Classic Riesling, Rheingau |Germany|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 94,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Chateau Copsa, Anjelica, Cabernet Sauvignon, Rose Valley |Bulgaria|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 95,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Kapatovo, Grenache & Mourvèdre, Struma Valley |Bulgaria|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 96,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Bottega, Pinot Grigio Rosé, Veneto |Italy|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 97,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Château de Beaulieu, Cuvée Alexandre Rosé, Grenache & Syrah & Cinsault & Cabernet Sauvignon, Coteaux d’Aix-en-Provence |France|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 98,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Château d’Esclans, Whispering Angel, Grenache & Cinsault & Rolle (Vermentino) & Syrah & Tibouren, Côtes de Provence |France|",
+      "price": "85.00 BGN/43.46 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 99,
+      "category": "wine",
+      "semi-category": "Rose",
+      "name": "Château Miraval, Miraval Rosé, Cinsault & Grenache & Syrah & Rolle (Vermentino), Côtes de Provence |France|",
+      "price": "100.00 BGN/51.13 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 100,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Medi Valley, Great Bulgaria, Rubin & Melnik 55 & Mavrud & Gamza, Struma Valley |Bulgaria|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 101,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Zaara Estate, Dogma, Mavrud, Sakar |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 102,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Kapatovo, Grenache & Mourvèdre & Syrah, Struma Valley |Bulgaria|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 103,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Chateau Copsa, Alegria, Merlot, Rose Valley |Bulgaria|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 104,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Zaara Estate, Triada, Rubin, Sakar |Bulgaria|",
+      "price": "65.00 BGN/33.23 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 105,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Bratanov, 3 Blend, Cabernet Franc & Merlot & Rubin, Sakar |Bulgaria|",
+      "price": "70.00 BGN/35.79 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 106,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Idi Di Marzo, Montepulciano d’Abruzzo DOC, Montepulciano, Abruzzo |Italy|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 107,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Otella, Gemei Rosso, Corvina, Merlot & Cabernet Sauvignon, Veneto |Italy|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 108,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Produttori di Manduria, Lirica, Primitivo, Puglia |Italy|",
+      "price": "65.00 BGN/33.23 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 109,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Castello di Volpaia, Chianti Classico, Sangiovese, Tuscany |Italy|",
+      "price": "90.00 BGN/46.02 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 110,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Ilatium, Amarone, Covina & Rondinella & Corvione, Veneto |Italy|",
+      "price": "169.00 BGN/86.44 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 111,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Sacha Lichine, Le Coq Rouge, Syrah, Languedoc |France|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 112,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Saint Cosme, Micro-Cosme, Grenache & Pinot Noir, Rhône Valley |France|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 113,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Château Penin, La Fleur Penin Saint-Émilion Grand Cru, Merlot & Cabernet Franc, Bordeaux |France|",
+      "price": "90.00 BGN/46.02 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 114,
+      "category": "wine",
+      "semi-category": "Red",
+      "name": "Bernard Defaix, Bourgogne, Pinot Noir, Burgundy |France|",
+      "price": "100.00 BGN/51.13 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 115,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Bottega, Il Vino dei Poeti Prosecco DOC Spumante Brut, Glera, Veneto |Italy|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 116,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Andreola, Dirupo Prosecco Superiore Valdobbiadene DOCG, Glera, Veneto |Italy|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 117,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Massotina, Prosecco Zero Dosage, Glera, Veneto |Italy|",
+      "price": "60.00 BGN/30.68 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 118,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Sumarroca, Cava 2CV Inalterat, Xarel·lo, Catalonia |Spain|",
+      "price": "55.00 BGN/28.12 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 119,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Sumarroca, Brut Rosé Cava, Pinot Noir & Macabeu, Catalonia |Spain|",
+      "price": "65.00 BGN/33.23 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 120,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Loriot-Pagel, Carte d’Or, Pinot Meunier & Chardonnay & Pinot Noir, Champagne |France|",
+      "price": "130.00 BGN/66.47 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 121,
+      "category": "wine",
+      "semi-category": "Sparkling",
+      "name": "Piper-Heidsieck, Brut, Pinot Noir & Pinot Meunier & Chardonnay, Champagne |France|",
+      "price": "170.00 BGN/86.91 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 122,
+      "category": "wine",
+      "semi-category": "Non-alcoholic",
+      "name": "Torres, Natureo 0% Alcohol, Muscat |Spain|",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "150 ml"
+    },
+    {
+      "id": 123,
+      "category": "wine",
+      "semi-category": "Non-alcoholic",
+      "name": "Torres, Natureo 0% Alcohol, Muscat |Spain|",
+      "price": "50.00 BGN/25.56 €",
+      "quantity": "750 ml"
+    },
+    {
+      "id": 124,
+      "category": "wine",
+      "semi-category": "Wine by the Glass",
+      "name": "попитайте вашия сервитьор за днешното предложение",
+      "price": "10.00 BGN/5.11 €",
+      "quantity": "150 ml"
+    },
+    {
+      "id": 125,
+      "category": "food",
+      "semi-category": "Salads",
+      "name": "Салата “Крокмач” |чери домати, краставици, маринован лук, магданоз, орехи, крем от босилек, крокмач, пръст от маслини| |1, 3, 5, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
+    },
+    {
+      "id": 126,
+      "category": "food",
+      "semi-category": "Salads",
+      "name": "Листни салати с компресирани ягоди с просеко |листни салати, ягоди, чери домати, карамелизирани ядки, сирене “Смилян” и ягодов дресинг чипс от еленски бут, шам фъстък, краставици и цитрусов гел| |1, 3, 5|",
+      "price": "19.90 BGN/10.17 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 127,
+      "category": "food",
+      "semi-category": "Salads",
+      "name": "Салата със сьомгова пъстърва “Гравлакс” |просо, мента, магданоз, пресен лук, фенел, шам фъстък, грейпфрут, гел от цитруси| |1, 2, 4|",
+      "price": "19.90 BGN/10.17 €",
+      "quantity": "300 g"
+    },
+
+    {
+      "id": 128,
+      "category": "food",
+      "semi-category": "Salads",
+      "name": "Интерпретация на Великденска салата |маруля, лоло росо, мариновани репички, краставици, дресинг от овче кисело мляко, мента, козунак, пъдпъдъчи яйца, катък със сладко от рози и пръст от маслини| |1, 2, 3, 5, 10|",
+      "price": "18.90 BGN/9.66 €",
+      "quantity": "300 g"
+    },
+    {
+      "id": 129,
+      "category": "food",
+      "semi-category": "Salads",
+      "name": "Салата “Пролет” |спаначена разядка, краставици, чесън, репички, пръст от маслини, пресносолно сирене, чипс от копър и дресинг с лещена паста| |1, 3|",
+      "price": "17.90 BGN/9.15 €",
+      "quantity": "300 g"
+    },
+    {
+      "id": 130,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Пресносолно сирене на скара |мариновано с шарена сол и поднесено с компресирани ягоди, сладко от рози, крем от босилек, козунак, печени лешници и пудра от ягоди| |1, 2, 5, 10|",
+      "price": "23.90 BGN/12.22 €",
+      "quantity": "160 g"
+    },
+    {
+      "id": 131,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Телешки дроб |сотиран с билково масло поднесен с мармалад от бекон, петрохан и кафе, крем от земна ябълка, крем от черен чесън и билкова гремолата| |1, 3, 5, 10|",
+      "price": "20.90 BGN/10.68 €",
+      "quantity": "180 g"
+    },
+    {
+      "id": 132,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Телешки тартар |селектирано българско телешко, шалот, каперси, смилянСо сос, горчица, маринован синап, жълтък, малдонска сол поднесен с крем от черен чесън, дехидратиран жълтък с коджи ориз и прясно изпечена фокача| |1, 2, 3, 6, 10|",
+      "price": "17.90 BGN/9.15 €",
+      "quantity": "140 g"
+    },
+    {
+      "id": 133,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Родопски пататник |поднесен с фермерски катък, петрохан, самардала и хрупкава кладница| |1, 6|",
+      "price": "19.90 BGN/10.17 €",
+      "quantity": "180 g"
+    },
+    {
+      "id": 134,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Патешки сърца |мариновани със бредСо паста, хрян и билки, поднесени със срирача сос, туршия от лук и маринован синап| |1, 2, 3, 6, 10|",
+      "price": "17.90 BGN/9.15 €",
+      "quantity": "180 g"
+    },
+    {
+      "id": 135,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Стек от тиквичка |маринован с хрян поднесен с леща с ядково мляко, зеленчуци и свежи билки, хумус и билкова гремолата| |2, 3, 5, 6|",
+      "price": "17.90 BGN/9.15 €",
+      "quantity": "200 g"
+    },
+    {
+      "id": 136,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Пуканки от скариди |поднесени със срирача сос и лайм| |2, 4, 7, 10|",
+      "price": "23.90 BGN/12.22 €",
+      "quantity": "230 g"
+    },
+    {
+      "id": 137,
+      "category": "food",
+      "semi-category": "Starters",
+      "name": "Счупени картофи соте |с катък и пикантен млечен сос| |1|",
+      "price": "13.90 BGN/7.11 €",
+      "quantity": "300 g"
+    },
+    {
+      "id": 138,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Бавно готвено агнешко |поднесено с пататник, спаначен крем, агнешко жу и еспума от крокмач| |1, 2, 3, 10|",
+      "price": "35.90 BGN/18.35 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 139,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Телешко бонфиле |зряло в коджи ориз, поднесено с аспержи, крем от земна ябълка, печен шалот и пепър сос| |1, 3, 6, 10|",
+      "price": "28.90 BGN/14.77 €",
+      "quantity": "400 g"
+    },
+    {
+      "id": 140,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Рол от заек |пълнен с лешници, сушени кайсии и пушен кашкавал, поднесен с глазирани моркови, пататник, крем от грах, сос “Велуте” и еспума от крокмач| |1, 2, 3, 5, 10|",
+      "price": "29.90 BGN/15.29 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 141,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Царевично пиле “Пролет” |поднесено с крем от грах, просо с кладница и свежи билки, аспержи и сос “Велуте”| |1, 2|",
+      "price": "59.90 BGN/30.63 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 142,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Свинско бонфиле с билкова коричка |Су-вид поднесено с крем от земна ябълка, глазирани моркови, печен шалот, портвайн жу сос, маринован синап| |1, 2, 3|",
+      "price": "27.90 BGN/14.27 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 143,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Патешко магре |поднесено с крем от земна ябълка, печен шалот, гел от цитруси, портвайн жу сос с бял шоколад и череши| |1, 2|",
+      "price": "25.90 BGN/13.24 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 144,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Родопска трахана |със спаначен крем, аспержи, грах, крема сирене и сирене “Смилян”| |1, 2|",
+      "price": "24.90 BGN/12.73 €",
+      "quantity": "300 g"
+    },
+    {
+      "id": 145,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Хрупкава кладница |поднесена с хумус, просо със спанак, ядково мляко, свежи билки и шам фъстък | |1, 5|",
+      "price": "34.90 BGN/17.84 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 146,
+      "category": "food",
+      "semi-category": "Main courses",
+      "name": "Филе от лаврак с фарс от скариди |поднесено с крем от спанак, рагу от леща със зеленчуци, свежи билки и биск| |1, 2, 4, 9|",
+      "price": "19.90 BGN/10.17 €",
+      "quantity": "350 g"
+    },
+    {
+      "id": 147,
+      "category": "food",
+      "semi-category": "Desserts",
+      "name": "Домашна торта в стил Съборна 23 |орехови блатове, домашен яйчен крем, сладко от череши, бял шоколад, пудра от ягоди| |1, 2, 5, 10|",
+      "price": "11.90 BGN/6.08 €",
+      "quantity": "100 g"
+    },
+    {
+      "id": 148,
+      "category": "food",
+      "semi-category": "Desserts",
+      "name": "Пистачио кейк с бял шоколад |Поднесен с шам фъстък, малиново кули, ванилов мус, сорбе от касис и пудра от касис| |1, 2, 5, 10|",
+      "price": "11.90 BGN/6.08 €",
+      "quantity": "100 g"
+    },
+    {
+      "id": 149,
+      "category": "food",
+      "semi-category": "Desserts",
+      "name": "Танцът на Павлова |ванилов мус, гел от цитруси, кули от ягоди, меренг, компресирани ягоди и пудра от ягоди| |1, 2, 10|",
+      "price": "11.90 BGN/6.08 €",
+      "quantity": "100 g"
+    },
+    {
+      "id": 150,
+      "category": "food",
+      "semi-category": "Desserts",
+      "name": "Шоколадов мус |мподнесен със свежи плодове, шоколадова пръст, мисо карамел, кули от малини| |1, 2, 5, 10|",
+      "price": "11.90 BGN/6.08 €",
+      "quantity": "100 g"
+    },
+    {
+      "id": 151,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "1. Мляко и млечни продукти (включително лактоза)"
+    },
+    {
+      "id": 152,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "2. Зърнени култури, съдържащи глутен"
+    },
+    {
+      "id": 153,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "3. Синап и продукти от него"
+    },
+    {
+      "id": 154,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "4. Риба, рибни и морски продукти"
+    },
+    {
+      "id": 155,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "5. Ядки"
+    },
+    {
+      "id": 156,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "6. Соя и соеви продукти"
+    },
+    {
+      "id": 157,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "7. Сулфити"
+    },
+    {
+      "id": 158,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "8. Сусамено семе и продукти от него"
+    },
+    {
+      "id": 159,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "9. Целина и продукти от нея"
+    },
+    {
+      "id": 160,
+      "category": "food",
+      "semi-category": "Alergens",
+      "name": "10. Яйца и продукти на яйчна основа"
+    }
+  ]
+}
