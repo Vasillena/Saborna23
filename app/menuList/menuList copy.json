@@ -567,7 +567,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Chateau Copsa, Single Vineyard Chardonnay, Rose Valley |Bulgaria|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -575,7 +575,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Haralambievi, The Chosen One Sauvignon Blanc, Danube Plain |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -583,7 +583,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Zaara Estate, Dogma Tamianka, Sakar |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -591,7 +591,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Kapatovo, Sauvignon Blanc & Viognier, Struma Valley |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -599,7 +599,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Better Half, Premium Sauvignon Blanc, Thracian Lowlands |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -607,7 +607,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Bratanov, 3 Blend, Chardonnay & Tamianka & Viognier, Sakar |Bulgaria|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -615,7 +615,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Idi Di Marzo, Oro del Mare Pecorino, Abruzzo |Italy|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -623,7 +623,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Cantina Cormòns, Pinot Grigio, Friuli |Italy|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -631,7 +631,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Villa Antinori, Bianco, Garganega & Pinot Grigio & Pinot Blanc, Tuscany |Italy|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -639,7 +639,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "La Scolca, Etichetta Bianca, Cortese, Gavi |Italy|",
-      "price": "75.00 BGN/38.35 €",
+      "price": "38.35 €/75.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -647,7 +647,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Ottella, Lugana, Turbiana, Lombardy |Italy|",
-      "price": "75.00 BGN/38.35 €",
+      "price": "38.35 €/75.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -655,7 +655,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Andrian, Floreado, Sauvignon Blanc, Alto Adige |Italy|",
-      "price": "80.00 BGN/40.91 €",
+      "price": "40.91 €/80.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -663,7 +663,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Château Pesquié, La Paradou Vermentino, Rhône Valley |France|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -671,7 +671,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Laroche, Mas La Chevalière Sauvignon Blanc, Languedoc |France|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -679,7 +679,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Michel Paquet, Mâcon-Villages Chardonnay, Burgundy |France|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -687,7 +687,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Pascal Jolivet, Attitude, Sauvignon Blanc, Loire Valley |France|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -695,7 +695,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Bernard Defaix, Chablis, Chardonnay, Burgundy |France|",
-      "price": "100.00 BGN/51.13 €",
+      "price": "51.13 €/100.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -703,7 +703,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Gérard Boulay, Sancerre, Sauvignon Blanc, Loire Valley |France|",
-      "price": "120.00 BGN/61.36 €",
+      "price": "61.36 €/120.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -711,7 +711,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Laroche, Chablis Grand Cru, Chardonnay, Burgundy |France|",
-      "price": "270.00 BGN/138.07 €",
+      "price": "138.07 €/270.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -719,7 +719,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Pernot-Belicard Puligny-Montrachet, Chardonnay, Burgundy |France|",
-      "price": "260.00 BGN/132.93 €",
+      "price": "132.93 €/260.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -727,7 +727,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Misty Cove, Sauvignon Blanc, Marlborough |New Zealand|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -735,7 +735,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Giesen Estate, Sauvignon Blanc, Marlborough |New Zealand|",
-      "price": "65.00 BGN/33.23 €",
+      "price": "33.23 €/65.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -743,7 +743,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Torres, Viña Esmeralda, Moscatel & Gewürztraminer, Catalunya |Spain|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -751,7 +751,7 @@
       "category": "wine",
       "semi-category": "White",
       "name": "Prinz von Hessen, Classic Riesling, Rheingau |Germany|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -759,7 +759,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Chateau Copsa, Anjelica, Cabernet Sauvignon, Rose Valley |Bulgaria|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -767,7 +767,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Kapatovo, Grenache & Mourvèdre, Struma Valley |Bulgaria|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -775,7 +775,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Bottega, Pinot Grigio Rosé, Veneto |Italy|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -783,7 +783,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Château de Beaulieu, Cuvée Alexandre Rosé, Grenache & Syrah & Cinsault & Cabernet Sauvignon, Coteaux d’Aix-en-Provence |France|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -791,7 +791,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Château d’Esclans, Whispering Angel, Grenache & Cinsault & Rolle (Vermentino) & Syrah & Tibouren, Côtes de Provence |France|",
-      "price": "85.00 BGN/43.46 €",
+      "price": "43.46 €/85.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -799,7 +799,7 @@
       "category": "wine",
       "semi-category": "Rose",
       "name": "Château Miraval, Miraval Rosé, Cinsault & Grenache & Syrah & Rolle (Vermentino), Côtes de Provence |France|",
-      "price": "100.00 BGN/51.13 €",
+      "price": "51.13 €/100.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -807,7 +807,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Medi Valley, Great Bulgaria, Rubin & Melnik 55 & Mavrud & Gamza, Struma Valley |Bulgaria|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -815,7 +815,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Zaara Estate, Dogma, Mavrud, Sakar |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -823,7 +823,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Kapatovo, Grenache & Mourvèdre & Syrah, Struma Valley |Bulgaria|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -831,7 +831,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Chateau Copsa, Alegria, Merlot, Rose Valley |Bulgaria|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -839,7 +839,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Zaara Estate, Triada, Rubin, Sakar |Bulgaria|",
-      "price": "65.00 BGN/33.23 €",
+      "price": "33.23 €/65.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -847,7 +847,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Bratanov, 3 Blend, Cabernet Franc & Merlot & Rubin, Sakar |Bulgaria|",
-      "price": "70.00 BGN/35.79 €",
+      "price": "35.79 €/70.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -855,7 +855,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Idi Di Marzo, Montepulciano d’Abruzzo DOC, Montepulciano, Abruzzo |Italy|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -863,7 +863,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Otella, Gemei Rosso, Corvina, Merlot & Cabernet Sauvignon, Veneto |Italy|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -871,7 +871,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Produttori di Manduria, Lirica, Primitivo, Puglia |Italy|",
-      "price": "65.00 BGN/33.23 €",
+      "price": "33.23 €/65.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -879,7 +879,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Castello di Volpaia, Chianti Classico, Sangiovese, Tuscany |Italy|",
-      "price": "90.00 BGN/46.02 €",
+      "price": "46.02 €/90.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -887,7 +887,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Ilatium, Amarone, Covina & Rondinella & Corvione, Veneto |Italy|",
-      "price": "169.00 BGN/86.44 €",
+      "price": "86.44 €/169.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -895,7 +895,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Sacha Lichine, Le Coq Rouge, Syrah, Languedoc |France|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -903,7 +903,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Saint Cosme, Micro-Cosme, Grenache & Pinot Noir, Rhône Valley |France|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -911,7 +911,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Château Penin, La Fleur Penin Saint-Émilion Grand Cru, Merlot & Cabernet Franc, Bordeaux |France|",
-      "price": "90.00 BGN/46.02 €",
+      "price": "46.02 €/90.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -919,7 +919,7 @@
       "category": "wine",
       "semi-category": "Red",
       "name": "Bernard Defaix, Bourgogne, Pinot Noir, Burgundy |France|",
-      "price": "100.00 BGN/51.13 €",
+      "price": "51.13 €/100.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -927,7 +927,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Bottega, Il Vino dei Poeti Prosecco DOC Spumante Brut, Glera, Veneto |Italy|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -935,7 +935,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Andreola, Dirupo Prosecco Superiore Valdobbiadene DOCG, Glera, Veneto |Italy|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -943,7 +943,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Massotina, Prosecco Zero Dosage, Glera, Veneto |Italy|",
-      "price": "60.00 BGN/30.68 €",
+      "price": "30.68 €/60.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -951,7 +951,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Sumarroca, Cava 2CV Inalterat, Xarel·lo, Catalonia |Spain|",
-      "price": "55.00 BGN/28.12 €",
+      "price": "28.12 €/55.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -959,7 +959,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Sumarroca, Brut Rosé Cava, Pinot Noir & Macabeu, Catalonia |Spain|",
-      "price": "65.00 BGN/33.23 €",
+      "price": "33.23 €/65.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -967,7 +967,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Loriot-Pagel, Carte d’Or, Pinot Meunier & Chardonnay & Pinot Noir, Champagne |France|",
-      "price": "130.00 BGN/66.47 €",
+      "price": "66.47 €/130.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -975,7 +975,7 @@
       "category": "wine",
       "semi-category": "Sparkling",
       "name": "Piper-Heidsieck, Brut, Pinot Noir & Pinot Meunier & Chardonnay, Champagne |France|",
-      "price": "170.00 BGN/86.91 €",
+      "price": "86.91 €/170.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -983,7 +983,7 @@
       "category": "wine",
       "semi-category": "Non-alcoholic",
       "name": "Torres, Natureo 0% Alcohol, Muscat |Spain|",
-      "price": "10.00 BGN/5.11 €",
+      "price": "5.11 €/10.00 BGN",
       "quantity": "150 ml"
     },
     {
@@ -991,7 +991,7 @@
       "category": "wine",
       "semi-category": "Non-alcoholic",
       "name": "Torres, Natureo 0% Alcohol, Muscat |Spain|",
-      "price": "50.00 BGN/25.56 €",
+      "price": "25.56 €/50.00 BGN",
       "quantity": "750 ml"
     },
     {
@@ -999,7 +999,7 @@
       "category": "wine",
       "semi-category": "Wine by the Glass",
       "name": "ask your waiter for today’s selection",
-      "price": "10.00 BGN/5.11 €",
+      "price": "5.11 €/10.00 BGN",
       "quantity": "150 ml"
     },
     {
