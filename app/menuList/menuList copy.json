@@ -1006,7 +1006,7 @@
       "id": 125,
       "category": "food",
       "semi-category": "Salads",
-      "name": "“Krokmach” Salad |ccherry tomatoes, cucumbers, pickled onions, parsley, walnuts, basil cream, krokmach, olive soil| |1, 3, 5, 10|",
+      "name": "Salad with “Sheep’s Katak” |cherry tomatoes, cucumbers, pickled onions, parsley, walnuts, basil cream, farm-style sheep’s katak, olive soil | |1, 3, 5, 10|",
       "price": "9.50 €/18.58 BGN",
       "quantity": "300 g"
     },
@@ -1111,7 +1111,7 @@
       "id": 138,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Slow-Cooked Lamb |served with patatnik, spinach cream, lamb jus and krokmach espuma| |1, 2, 3, 10|",
+      "name": "Slow-Cooked Lamb |served with patatnik, spinach cream, lamb jus and sheep’s yogurt espuma| |1, 2, 3, 10|",
       "price": "21.50 €/42.05 BGN",
       "quantity": "350 g"
     },
@@ -1127,7 +1127,7 @@
       "id": 140,
       "category": "food",
       "semi-category": "Main courses",
-      "name": "Rabbit Roll |filled with hazelnuts, dried apricots and smoked cheese, served with glazed carrots, patatnik, pea cream, “Veloute” sauce and krokmach espuma| |1, 2, 3, 5, 10|",
+      "name": "Rabbit Roll |stuffed with hazelnuts, dried apricots and smoked yellow cheese, served with glazed carrots, patatnik, pea cream, velouté sauce and sheep’s yogurt espuma| |1, 2, 3, 5, 10|",
       "price": "19.90 €/38.92 BGN",
       "quantity": "350 g"
     },
