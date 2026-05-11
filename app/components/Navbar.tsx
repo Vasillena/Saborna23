@@ -76,7 +76,7 @@ export default function Navbar(): JSX.Element {
                   <span className="font-bold"> {t("nav.week")}</span> 5pm - 11pm
                 </p>
                 <p className="text-lg">
-                  <span className="font-bold"> {t("nav.weekend")}</span> 1pm -
+                  <span className="font-bold"> {t("nav.weekend")}</span> 12pm -
                   11pm
                 </p>
               </div>
@@ -125,10 +125,10 @@ export default function Navbar(): JSX.Element {
               <div className="w-48 absolute top-[120%] -left-40 bg-white shadow-md rounded-lg p-4 text-center">
                 <h3 className="text-lg font-bold"> {t("nav.hours")}</h3>
                 <p>
-                  <span className="font-bold">{t("nav.week")}</span> 5pm - 12am
+                  <span className="font-bold">{t("nav.week")}</span> 5pm - 11am
                 </p>
                 <p>
-                  <span className="font-bold">{t("nav.weekend")}</span> 12pm -
+                  <span className="font-bold">{t("nav.weekend")}</span> 11pm -
                   12am
                 </p>
               </div>
