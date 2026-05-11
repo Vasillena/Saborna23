@@ -128,7 +128,7 @@ export default function Navbar(): JSX.Element {
                   <span className="font-bold">{t("nav.week")}</span> 5pm - 12am
                 </p>
                 <p>
-                  <span className="font-bold">{t("nav.weekend")}</span> 1pm -
+                  <span className="font-bold">{t("nav.weekend")}</span> 12pm -
                   12am
                 </p>
               </div>
