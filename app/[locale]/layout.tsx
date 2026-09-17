@@ -1,5 +1,6 @@
 import "./globals.css";
 
+import { GoogleTagManager } from "@next/third-parties/google";
 import Image from "next/image";
 import { MazzardLRegular } from "../utils/fonts";
 import Navbar from "../components/Navbar";
@@ -102,6 +103,7 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body className={`${MazzardLRegular.className} antialiased`}>
+        <GoogleTagManager gtmId="GTM-W2HG4CJP" />
         <Provider locale={locale}>
           <div className="hidden absolute top-8 w-full md:flex justify-center items-center z-50">
             <div className="w-[160px] xl:w-[200px]">

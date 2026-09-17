@@ -41,9 +41,9 @@ export default function MainNav({ closeMenu }: MainNavProps): JSX.Element {
         active: pathname === `/${locale}/gallery`,
       },
       {
-        href: "/contact",
-        label: t("nav.contact"),
-        active: pathname === `/${locale}/contact`,
+        href: "/reservation",
+        label: t("nav.reservation"),
+        active: pathname === `/${locale}/reservation`,
       },
     ],
     [t, locale, pathname]

@@ -4,7 +4,7 @@ export default {
     about: "За нас",
     menu: "Меню",
     gallery: "Галерия",
-    contact: "Контакти",
+    reservation: "Резервации",
     hours: "Работно време",
     week: "Пон - Пет:",
     weekend: "Съб - Нед:",

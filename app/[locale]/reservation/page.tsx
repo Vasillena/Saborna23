@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   let title, description, keywords;
 
   if (locale === "bg") {
-    title = "Контакти | saborna23.bg";
+    title = "Резервации | saborna23.bg";
     description =
       "Допълваме специалните ви моменти и се грижим за страхотното извживяване на вас и вашите гости. С повод или без при нас всеки ден е празник! Заповядайте!";
     keywords = [
@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       "атмосфера",
       "нощен живот",
       "контакти",
+      "резервации",
       "Saborna 23",
       "restaurant Saborna 23",
       "restaurant Plovdiv",
@@ -36,9 +37,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       "vibe",
       "nightlife",
       "contact",
+      "reservation",
     ];
   } else if (locale === "en") {
-    title = "Contact | saborna23.bg";
+    title = "Reservation | saborna23.bg";
     description =
       "We enhance your special moments and ensure an amazing experience for you and your guests. With or without an occasion, every day with us is a celebration! Welcome!";
     keywords = [
@@ -53,6 +55,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       "атмосфера",
       "нощен живот",
       "контакти",
+      "резервации",
       "Saborna 23",
       "restaurant Saborna 23",
       "restaurant Plovdiv",
@@ -63,14 +66,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       "vibe",
       "nightlife",
       "contact",
+      "reservation",
     ];
   }
 
   const alternates = {
-    canonical: locale === "en" ? "/en/contact" : "/bg/contact",
+    canonical: locale === "en" ? "/en/reservation" : "/bg/reservation",
     languages: {
-      bg: "/bg/contact",
-      en: "/en/contact",
+      bg: "/bg/reservation",
+      en: "/en/reservation",
     },
   };
 

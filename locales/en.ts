@@ -4,7 +4,7 @@ export default {
     about: "About",
     menu: "Menu",
     gallery: "Gallery",
-    contact: "Contact",
+    reservation: "Reservation",
     hours: "Opening Hours",
     week: "Mon - Fri:",
     weekend: "Sat - Sun:",

@@ -43,7 +43,7 @@ export default async function Contact(): Promise<JSX.Element> {
           </div>
         </div>
 
-        <div className="flex flex-col gap-20 items-center justify-center px-4 md:px-20 text-center mt-4 md:mt-0">
+        <div className="h-screen flex flex-col gap-10 items-center px-4 md:px-20 text-center overflow-y-auto no-scrollbar py-20">
           <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
             <p className="text-xl lg:text-2xl">
               {t("contacts.text-1")}⁣ ⁣ <br />
@@ -80,7 +80,7 @@ export default async function Contact(): Promise<JSX.Element> {
             </address>
           </Reveal>
           <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
-            <div className="flex gap-4 pb-20 md:0">
+            <div className="flex gap-4 md:0">
               <Link href="https://www.facebook.com/saborna23" target="_blank">
                 <Image
                   src={socials1}
@@ -100,6 +100,29 @@ export default async function Contact(): Promise<JSX.Element> {
                   className="w-6 h-auto"
                 />
               </Link>
+            </div>
+          </Reveal>
+
+          <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
+            <div
+              className="w-full max-w-[600px] text-center px-4 mb-40"
+              style={{ minWidth: "420px" }}
+            >
+              <iframe
+                src="https://rezzo.bg/r/iframe/2428"
+                title="Онлайн резервация"
+                className="w-full border-none"
+                style={{ minHeight: "800px", height: "800px" }}
+              />
+
+              <a
+                href="https://rezzo.bg/r/v/2428"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs text-black"
+              >
+                ReZZo.bg онлайн резервации
+              </a>
             </div>
           </Reveal>
         </div>
