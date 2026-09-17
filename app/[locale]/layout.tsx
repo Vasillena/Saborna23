@@ -103,7 +103,7 @@ export default async function RootLayout({
   return (
     <html lang={locale}>
       <body className={`${MazzardLRegular.className} antialiased`}>
-        <GoogleTagManager gtmId="GTM-W2HG4CJP" />
+        <GoogleTagManager gtmId={process.env.NEXT_PUBLIC_GTM_ID!} />
         <Provider locale={locale}>
           <div className="hidden absolute top-8 w-full md:flex justify-center items-center z-50">
             <div className="w-[160px] xl:w-[200px]">
