@@ -105,8 +105,8 @@ export default async function Contact(): Promise<JSX.Element> {
 
           <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
             <div
-              className="w-full max-w-[600px] text-center px-4 mb-40"
-              style={{ minWidth: "420px" }}
+              className="w-full max-w-[600px] min-w-[320px] md:min-w-[420px] text-center px-4 mb-40"
+              // style={{ minWidth: "420px" }}
             >
               <iframe
                 src="https://rezzo.bg/r/iframe/2428"
