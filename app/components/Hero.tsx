@@ -21,7 +21,7 @@ export default async function Hero(): Promise<JSX.Element> {
         >
           <div
             className="w-full justify-self-center text-center p-10"
-            style={{ backgroundColor: "rgba(0, 0, 0, 0.4)" }}
+            style={{ backgroundColor: "rgba(0, 0, 0, 0.6)" }}
           >
             <Reveal initial={{ y: "-5%" }} animate={{ y: "0%" }}>
               <h1
