@@ -9,8 +9,8 @@ import Link from "next/link";
 import MenuCard from "./MenuCard";
 import Reveal from "./Animations/Reveal";
 import back from "@/public/back.svg";
-import menuListBG from "../menuList/menuListBG.json";
-import menuListEN from "../menuList/menuList.json";
+import menuListBG from "../menuList/menuListBG copy.json";
+import menuListEN from "../menuList/menuList copy.json";
 import { usePathname } from "next/navigation";
 
 export default function MenuList(): JSX.Element {
